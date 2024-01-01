@@ -1,8 +1,12 @@
-const baseDir = "./corpora/アイヌ語アーカイブ/";
-
 async function* listFiles() {
-  for await (const directory of Deno.readDir(baseDir)) {
-    yield baseDir + directory.name + "/content.txt";
+  const ainugo = "./corpora/アイヌ語アーカイブ/";
+  for await (const directory of Deno.readDir(ainugo)) {
+    yield ainugo + directory.name + "/content.txt";
+  }
+
+  const aaKen = "./corpora/AA研アイヌ語資料/";
+  for await (const directory of Deno.readDir(aaKen)) {
+    yield aaKen + directory.name + "/content.txt";
   }
 }
 
