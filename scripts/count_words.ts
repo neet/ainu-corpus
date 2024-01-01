@@ -8,6 +8,11 @@ async function* listFiles() {
   for await (const directory of Deno.readDir(aaKen)) {
     yield aaKen + directory.name + "/content.txt";
   }
+
+  const corpus = "./corpora/アイヌ語口承文芸コーパス/";
+  for await (const directory of Deno.readDir(corpus)) {
+    yield corpus + directory.name + "/content.txt";
+  }
 }
 
 function filterAinuText(text: string) {
