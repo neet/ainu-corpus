@@ -1,20 +1,6 @@
 import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
+import { readData } from "./asset_read.ts";
 import { Asset } from "./asset.ts";
-
-const readData = async () => {
-  const data = await Deno.readTextFile("./data.tsv");
-  const lines = data.split("\n");
-  const assets: Asset[] = [];
-
-  for (const line of lines) {
-    const [type, source, id, title, url] = line.split("\t");
-    assets.push(new Asset({ type, source, id, title, url }));
-  }
-
-  return assets;
-};
-
-//
 
 const handleAinguoArchive = async (asset: Asset) => {
   await page.goto(asset.url);

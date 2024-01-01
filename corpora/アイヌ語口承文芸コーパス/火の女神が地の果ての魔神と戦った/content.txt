@@ -1,0 +1,375 @@
+V1:apemerumeru koyankoyan mat
+(サケヘ：折り返しの文句1)
+
+V2: ateyatenna
+(サケヘ：折り返しの文句2)
+
+V1 V2
+--
+
+u kunne hene
+夜も
+
+V1 V2 u tokap hene
+昼も
+
+V1 V2 kemeyki patek
+針仕事ばかり
+
+V1 ci= ki pa ki na.
+私はしていた。
+
+V1 ci= kemru oka
+私の針の縫う後
+
+V1 ci= kemru etok
+私の針の縫う前を
+
+V1 tu imeru kur
+ふたつの光
+
+re imeru kur
+みっつの光が
+
+kotuytuyke na
+よぎる。
+
+V1 tapan pe patek
+そればかりを
+
+V3:apemerumeru nepki ne ci= ki
+私は仕事として
+
+V1 enune ki kor
+いながら
+
+V1 oka <y>=as akusu
+暮らしていたが
+
+V1 u sineanto
+ある日のこと
+
+V1 tumasnu kamuy
+力の強い神
+
+V1 ne yak easir*1
+であってこそ
+
+V3 kotom korkayki
+そうであろうと思われる
+
+V1 kamuy arki hum
+神がやってくる音が
+
+u ratcitara
+ゆっくりと
+
+V1 u <y>arki ayne
+近づいてきて
+
+apapa unno
+戸口の前に
+
+u turse ki na
+下り立つと
+
+V1 V2 ene itak h_i
+こう言った。
+
+V1 “nisositciw
+雲が地平を刺す
+
+imakake ta
+その向こうに住む
+
+V1 u pase kamuy
+えらい神
+
+e= ante hoku
+お前の夫
+
+V1 e= sokar hoku
+大事な夫が
+
+V1 tumunci kamuy
+その魔神と
+
+V1 re hot ... re hot tumihi
+６０の戦いを
+
+V1 ukoyki ki wa
+交わしていて、
+
+somo e= kopas y_akun
+お前が助けに行かなければ
+
+V1 e= hekote kamuy
+お前の夫の神は
+
+V1 a= maketa noyne
+やられてしまいそうな
+
+V3 u sirki ki wa
+状況なので
+
+V1 itekekarpe
+彼が手づから作ったもの
+
+V1 noya utasa p*2
+ヨモギの草人形が
+
+V1 a= ne ruwe ne
+私であるのだ
+
+V1 a= e= koasurani kusu
+お前に火急の事態を知らせるために
+
+nisositciw imakake wa
+雲が地平を刺すその向こうから
+
+V1 u ek =an ruwe
+やってきたもの
+
+enune ki na
+であるのだ。
+
+V1 e= ikaopas pe ne na."
+助けに向かってくれ」
+
+V1 sekor itak kor
+と言いながら
+
+V1 harkiso kus wa
+左座を通って
+
+V1 nusa or unno
+外の祭壇のところへ
+
+u <y>arpa ki na
+行った。
+
+V1 a= kar wa okay pe
+私は縫い物を
+
+V1 siruy a= oraypa
+隅に押しやって
+
+V1 ape a= una
+火を埋けて
+
+ape … u kunne rerko
+夜三日
+
+tokap rerko
+昼三日かけて
+
+a= arkehosi
+片方の脚絆を
+
+a= us pa ki na
+私ははいた。
+
+V3 “u nupan kamuy
+「つまらない神で
+
+a= ne pa he ki"
+私はあろうか」
+
+enune sekor
+そのように
+
+u yaynu =an pe ne kusu
+思ったので
+
+u ratcitara
+ゆっくりと
+
+sa ... sipinpa =an wa
+装束を身につけて
+
+V1 u <y>arpa =an na
+でかけた。
+
+V1 nisositciw
+雲が大地を刺す
+
+imakake ta
+その向こうに
+
+u <y>arpa =an akusu
+行くと
+
+V1 u sonno poka
+本当に
+
+ineapkusun
+なんとまあ
+
+V1 utari inne p
+一族の多いもの
+
+V1 apaha inne p
+親戚の多いもので
+
+V1 tumunci kamuy
+魔神は
+
+V1 u ne ruwe ne ya ka
+あることか
+
+a= eramiskari
+わからないほどである。
+
+V1 a= hekote kamuy
+わが夫の神は
+
+V3 koyaywennukar
+苦しんで
+
+V3 ki kor
+いながら
+
+u <y>an ruwe ne
+いる。
+
+V1 neun … u <y>an a ciki
+どのようにすれば
+
+u pirka ki
+よいだろうかと
+
+u yaynu =an hi kusu
+思ったので
+
+V1 ne wa okay pa p
+その者たちの
+
+okari
+まわりに
+
+ape a= omare
+火を放った。
+
+V1 a= hekote nispa
+わが夫
+
+V1 sinuma anak
+その人は
+
+oyak un arpa
+他のところへ逃げた。
+
+V1 tumunci kamuy
+魔神
+
+u kor kotanu
+の村
+
+un cise hene
+家々
+
+V1 or opitta
+すべてに
+
+ape a= omare
+火を放った。
+
+V1 iruka ne kor
+あっという間に
+
+V1 okake an na.
+戦いは終わった。
+
+V1 a= hoku nispa
+私の夫
+
+a= hekote nispa
+私の亭主は
+
+ene itak h_i
+こう言った。
+
+“a= kor katkemat
+「わが妻よ
+
+V1 eani ne yak easir
+お前ならば
+
+V3 a= e= ko ... a= e= otuwasi
+頼りになると
+
+V1 enune ki wa
+思って
+
+V1 noya utasa p
+ヨモギの草人形
+
+noya a= kar pa hine
+ヨモギの神を作って
+
+asurkor awa
+伝令をさせたら
+
+V1 e= ek kuskeray
+お前が来てくれたおかげで
+
+V1 siknu =an na."
+私は生き延びられた」
+
+V1 orowano
+そして
+
+V1 a= sokar hoku
+わがかしずく夫
+
+V3 turano
+とともに
+
+a= ante hoku
+わが大事な夫
+
+turano kayki
+と一緒に
+
+V1 u ratcitara
+ゆっくりと
+
+uenewsar =an kor
+よもやま話をしながら
+
+V1 u <y>arpa =an hine
+歩んで
+
+a= un cise ta
+私たちの家に
+
+V1 u <y>arpa =an hine
+たどりついて
+
+orowano
+それからは
+
+u ratcitara
+何事もなく
+
+V1 oka <y>=an ki na
+暮らしているのだ。
+
+V3 ta pakno ne kor
+そこまでのところで
+
+V1
+--
+
+tane anakne asinuma ka tumikor ka a= etoranne,
+今は、私も戦うのがおっくになった。
+
+a= hekote nispa ka ki kusu,
+夫も戦いが嫌になったので、
+
+sekor apekancari kamuy katkemat hawean sekor.
+と、火の上を掻き散らす女神が語ったと。
+
+yap =an h_i ora easir noya utasa p a= hopunire SITARI ki.
+（補足）陸に上がってから、その後でヨモギの草人形の魂を送ったりした。
+
