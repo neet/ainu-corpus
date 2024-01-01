@@ -46,7 +46,6 @@ function main() {
       const button = createCopyButton();
       const ainuText = document.querySelector("#text .wmax .right");
       ainuText.insertBefore(button, ainuText.firstChild);
-      mo.disconnect();
     }
   });
 
