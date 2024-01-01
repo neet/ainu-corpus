@@ -1,0 +1,399 @@
+V: pettu pettu
+サケヘ：ペットゥ　ペットゥ
+
+V matapa sak kur
+女手のないもの
+
+V a=ne p ne kusu
+で私はあるので
+
+V peratne kina
+バラバラの草を
+
+V a=pirapira wa
+ばらまいて
+
+V kasi ta rok=an.
+その上に座っていました。
+
+V ramma kane katkor kane
+いつも変わらず同じように
+
+V oka=an hike
+私はいたところ
+
+V sineantota
+ある日
+
+V puyar or nesun
+窓のところで
+
+V kurun kurun.
+影がちらちらしました。
+
+V inkar=an _akusu
+私が目を遣ると
+
+V kike... poro tuki
+大きな杯に
+
+V kanpasuykan
+捧酒箸が
+
+V momnatara.
+流れるくらい酒がいっぱいになっています。
+
+V tuki ka ta
+杯の上を
+
+V kikeuspasuy
+削りかけのついた捧酒箸が
+
+V terketerke kor
+ピョンピョン跳びながら
+
+V sonko atpa
+伝言の始めを
+
+V pitatpa kane
+解き始め
+
+V sonko arke
+伝言の半分を
+
+V ante kane
+置きながら
+
+V “okikurmikamuy
+「オキクﾙミ神が
+
+V i=utek sonko
+私を遣いにやった伝言を
+
+V a=ye kusu ne na.
+言いますよ。
+
+V aynu kotan
+人間の村が
+
+V kemus ki wa
+飢饉になって
+
+V ene ne _hi ka isam.
+どうにもなりません。
+
+V ne hi orowa
+それから
+
+V kesto an kor
+毎日
+
+V muyomapkar pe
+箕に入っているもの（＝穀物）
+
+V a=eikaopiwki
+で私は助け
+
+V kor an=an _a korka
+ながらいたのですが
+
+V tane anakne
+今やもう
+
+V ene ne hi ka isam na.
+どうにもならなくなったのです。
+
+V iwor kor pase kamuy
+狩り場を司る偉い神よ
+
+V cep _atte wa i=korpare yan.
+魚を下ろして私たちにください。
+
+V yuk _atte wa i=korpare yan.
+鹿を降ろして私たちにください。
+
+V aynu utar
+人間達が
+
+V siknupa yakne
+生きのびたなら
+
+V inaw ani
+木幣で
+
+V yayattaspa kuni
+お返しするように
+
+V a=ye kusu ne na.
+私は言うつもりですよ。
+
+V sekor okay pe
+ということを
+
+V okikurmi kamuy
+オキクﾙミ神が
+
+V i=eutekkar
+それで私を使いにやった
+
+V sonko a=ye hawe ne na.
+その伝言はこのようなことであるのですよ」
+
+V kikeuspasuy
+削りかけのついた捧酒箸が
+
+V sonko okere kusu
+伝言を終えたので
+
+V nea tuki c=uyna hine
+その杯を私は手に取り
+
+V sintoko oro c=ota.
+行器の中に空けました。
+
+V iwan sintoko
+たくさんの行器を
+
+V ror_ c=oraye.
+上座に移動させました。
+
+V iwan sintoko
+たくさんの行器を
+
+V utur_ c=oraye
+下座に移動させました。
+
+V ne hi orowa
+それから
+
+V kamuy opitta
+神々を全て
+
+V a=eahunke wa
+私は招待し
+
+V sisak maratto
+またとない宴会
+
+V ante ka ta
+を開いた上で
+
+V cep kor kamuy
+魚を司る神
+
+V eun a=ye akusu
+に向かって私が言ったところ
+
+V “ aynu or_ ta
+「人間の国では
+
+V cep a=rayke kor
+魚がとられると
+
+V isapakakikni ka sak no
+なづち棒もなしで
+
+V cis kor arki.”
+泣きながらやって来る」
+
+V yuk kor kamuy
+鹿を司る神
+
+V eun a=ye akusu
+に向かって私は言ったところ
+
+V “aynu or_ ta
+「人間の国では
+
+V yuk a=rayke kor
+鹿が狩られると
+
+V inaw ka sak no
+木幣もなしで
+
+V cis kor arki wa
+泣きながら帰って来て
+
+V iruska=an kusu
+腹が立ったので
+
+V ikaopiwki
+助けは
+
+V somo an kusu ne.”
+しないよ」
+
+V haweoka korka
+と言いましたが
+
+V yuk kor kamuy
+鹿を司る神が
+
+V kor pu or_ ta arpa=an.
+持っている倉のところに私は行き
+
+V yuk pone a=uk ruwe ne.
+鹿の骨を手に取りました。
+
+V ne hi orowa
+それから
+
+V cep kor kamuy
+魚を司る神が
+
+V kor pu or_ ta arpa=an.
+持っている倉のところへ行き
+
+V cep pone a=uk ruwe ne.
+魚の骨を手に取りました。
+
+V nea cep pone
+その魚の骨を
+
+V peciwor ka ta
+川に沿って上から
+
+V a=catcari na.
+私はバラバラまきました。
+
+V kenas so ka ta
+木原の上に
+
+V yuk pone a=catcari awa
+鹿の骨を私がバラバラまいたところ
+
+V apka topa
+雄鹿の群れが
+
+V sinna kane
+あっちこっちに
+
+V momanpe topa
+雌鹿の群れが
+
+V sinna kane
+あっちこっちに
+
+V oka ruwe ne.
+現れたのでした。
+
+V peciwor or_ ta
+川のところでは
+
+V inkar'=an _akusu
+私が目を遣ると
+
+V pokna cep rup
+下の魚の群れは
+
+V suma siru kane
+石を擦り
+
+V kanna cep rup
+上の魚の群れを
+
+V sukus cire kane
+日の光が焼いて
+
+V oka ruwe ne.
+いるようでした。
+
+V ne hi orowa
+それから
+
+V aynu utar
+人間達は
+
+V ipepa wa kiruspa hi oraun
+食事をして力をつけ
+
+V kanna ruyno
+再び
+
+V okikurmi orowa
+オキクﾙミから
+
+V u poro tuki
+大きな杯に
+
+kanpasuykan
+捧酒箸が
+
+momnatara
+流れるくらい(酒が)いっぱいになっている
+
+V yayattasa tuki ek.
+お返しの杯が来たのでした。
+
+V kanna ruyno
+再び
+
+V kamuy opitta
+神々をみんな
+
+V a=eahunke wa
+私は招いて
+
+V marattokor'=an.
+酒宴を開きました。
+
+V maratto ka ta
+酒宴のなかで
+
+V easir yuk kor kamuy
+やっと鹿を司る神
+
+V cep kor kamuy
+魚を司る神は
+
+V yayemakka ka uyruke ru... pe ne.
+心を静めました。
+
+V ne hi orowano
+それから
+
+V aynu sake
+人間の酒
+
+V aynu inaw
+人間の木幣
+
+V a=esocupu hi isam no
+で座をしまう暇もなく
+
+V a=i=pasenomi.
+私は丁重に祭られました。
+
+V pisno pisno
+毎回毎回
+
+V kamuy opitta
+神々みんなを
+
+V a=eahunke wa
+私は招いて
+
+V sisak maratto
+またとない酒宴を
+
+V ante kor
+開くと
+
+V maratto ka ta
+酒宴のなかで
+
+V kamuy opitta
+神々がみんな
+
+V i=ramyepa wa
+私を感心して褒め
+
+sipase kamuy ne an=an.
+本当に位の高い神として私はいて
+
+a=eyaykamuynere kor an=an.
+私は自分の神格を高めているのですと
+
+pase kamuy isoytak yak _a=ye.
+位の高い神が物語ったと言います。
+
