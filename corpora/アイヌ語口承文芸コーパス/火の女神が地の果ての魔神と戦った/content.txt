@@ -16,13 +16,13 @@ V1 V2 u tokap hene
 V1 V2 kemeyki patek
 針仕事ばかり
 
-V1 ci= ki pa ki na.
+V1 ci=ki pa ki na.
 私はしていた。
 
-V1 ci= kemru oka
+V1 ci=kemru oka
 私の針の縫う後
 
-V1 ci= kemru etok
+V1 ci=kemru etok
 私の針の縫う前を
 
 V1 tu imeru kur
@@ -37,7 +37,7 @@ kotuytuyke na
 V1 tapan pe patek
 そればかりを
 
-V3:apemerumeru nepki ne ci= ki
+V3:apemerumeru nepki ne ci=ki
 私は仕事として
 
 V1 enune ki kor
@@ -85,10 +85,10 @@ imakake ta
 V1 u pase kamuy
 えらい神
 
-e= ante hoku
+e=ante hoku
 お前の夫
 
-V1 e= sokar hoku
+V1 e=sokar hoku
 大事な夫が
 
 V1 tumunci kamuy
@@ -100,13 +100,13 @@ V1 re hot ... re hot tumihi
 V1 ukoyki ki wa
 交わしていて、
 
-somo e= kopas y_akun
+somo e=kopas y_akun
 お前が助けに行かなければ
 
-V1 e= hekote kamuy
+V1 e=hekote kamuy
 お前の夫の神は
 
-V1 a= maketa noyne
+V1 a=maketa noyne
 やられてしまいそうな
 
 V3 u sirki ki wa
@@ -118,22 +118,22 @@ V1 itekekarpe
 V1 noya utasa p*2
 ヨモギの草人形が
 
-V1 a= ne ruwe ne
+V1 a=ne ruwe ne
 私であるのだ
 
-V1 a= e= koasurani kusu
+V1 a=e=koasurani kusu
 お前に火急の事態を知らせるために
 
 nisositciw imakake wa
 雲が地平を刺すその向こうから
 
-V1 u ek =an ruwe
+V1 u ek=an ruwe
 やってきたもの
 
 enune ki na
 であるのだ。
 
-V1 e= ikaopas pe ne na."
+V1 e=ikaopas pe ne na."
 助けに向かってくれ」
 
 V1 sekor itak kor
@@ -148,13 +148,13 @@ V1 nusa or unno
 u <y>arpa ki na
 行った。
 
-V1 a= kar wa okay pe
+V1 a=kar wa okay pe
 私は縫い物を
 
-V1 siruy a= oraypa
+V1 siruy a=oraypa
 隅に押しやって
 
-V1 ape a= una
+V1 ape a=una
 火を埋けて
 
 ape … u kunne rerko
@@ -163,31 +163,31 @@ ape … u kunne rerko
 tokap rerko
 昼三日かけて
 
-a= arkehosi
+a=arkehosi
 片方の脚絆を
 
-a= us pa ki na
+a=us pa ki na
 私ははいた。
 
 V3 “u nupan kamuy
 「つまらない神で
 
-a= ne pa he ki"
+a=ne pa he ki"
 私はあろうか」
 
 enune sekor
 そのように
 
-u yaynu =an pe ne kusu
+u yaynu=an pe ne kusu
 思ったので
 
 u ratcitara
 ゆっくりと
 
-sa ... sipinpa =an wa
+sa ... sipinpa=an wa
 装束を身につけて
 
-V1 u <y>arpa =an na
+V1 u <y>arpa=an na
 でかけた。
 
 V1 nisositciw
@@ -196,7 +196,7 @@ V1 nisositciw
 imakake ta
 その向こうに
 
-u <y>arpa =an akusu
+u <y>arpa=an akusu
 行くと
 
 V1 u sonno poka
@@ -217,10 +217,10 @@ V1 tumunci kamuy
 V1 u ne ruwe ne ya ka
 あることか
 
-a= eramiskari
+a=eramiskari
 わからないほどである。
 
-V1 a= hekote kamuy
+V1 a=hekote kamuy
 わが夫の神は
 
 V3 koyaywennukar
@@ -238,7 +238,7 @@ V1 neun … u <y>an a ciki
 u pirka ki
 よいだろうかと
 
-u yaynu =an hi kusu
+u yaynu=an hi kusu
 思ったので
 
 V1 ne wa okay pa p
@@ -247,10 +247,10 @@ V1 ne wa okay pa p
 okari
 まわりに
 
-ape a= omare
+ape a=omare
 火を放った。
 
-V1 a= hekote nispa
+V1 a=hekote nispa
 わが夫
 
 V1 sinuma anak
@@ -271,7 +271,7 @@ un cise hene
 V1 or opitta
 すべてに
 
-ape a= omare
+ape a=omare
 火を放った。
 
 V1 iruka ne kor
@@ -280,22 +280,22 @@ V1 iruka ne kor
 V1 okake an na.
 戦いは終わった。
 
-V1 a= hoku nispa
+V1 a=hoku nispa
 私の夫
 
-a= hekote nispa
+a=hekote nispa
 私の亭主は
 
 ene itak h_i
 こう言った。
 
-“a= kor katkemat
+“a=kor katkemat
 「わが妻よ
 
 V1 eani ne yak easir
 お前ならば
 
-V3 a= e= ko ... a= e= otuwasi
+V3 a=e=ko ... a=e=otuwasi
 頼りになると
 
 V1 enune ki wa
@@ -304,28 +304,28 @@ V1 enune ki wa
 V1 noya utasa p
 ヨモギの草人形
 
-noya a= kar pa hine
+noya a=kar pa hine
 ヨモギの神を作って
 
 asurkor awa
 伝令をさせたら
 
-V1 e= ek kuskeray
+V1 e=ek kuskeray
 お前が来てくれたおかげで
 
-V1 siknu =an na."
+V1 siknu=an na."
 私は生き延びられた」
 
 V1 orowano
 そして
 
-V1 a= sokar hoku
+V1 a=sokar hoku
 わがかしずく夫
 
 V3 turano
 とともに
 
-a= ante hoku
+a=ante hoku
 わが大事な夫
 
 turano kayki
@@ -334,16 +334,16 @@ turano kayki
 V1 u ratcitara
 ゆっくりと
 
-uenewsar =an kor
+uenewsar=an kor
 よもやま話をしながら
 
-V1 u <y>arpa =an hine
+V1 u <y>arpa=an hine
 歩んで
 
-a= un cise ta
+a=un cise ta
 私たちの家に
 
-V1 u <y>arpa =an hine
+V1 u <y>arpa=an hine
 たどりついて
 
 orowano
@@ -361,15 +361,15 @@ V3 ta pakno ne kor
 V1
 --
 
-tane anakne asinuma ka tumikor ka a= etoranne,
+tane anakne asinuma ka tumikor ka a=etoranne,
 今は、私も戦うのがおっくになった。
 
-a= hekote nispa ka ki kusu,
+a=hekote nispa ka ki kusu,
 夫も戦いが嫌になったので、
 
 sekor apekancari kamuy katkemat hawean sekor.
 と、火の上を掻き散らす女神が語ったと。
 
-yap =an h_i ora easir noya utasa p a= hopunire SITARI ki.
+yap=an h_i ora easir noya utasa p a=hopunire SITARI ki.
 （補足）陸に上がってから、その後でヨモギの草人形の魂を送ったりした。
 

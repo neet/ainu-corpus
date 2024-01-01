@@ -1,10 +1,10 @@
-mus a= ne wa an =an pe ne hike
+mus a=ne wa an=an pe ne hike
 私はハエであって、そうして暮らしている者であるのだが
 
 *sineanpeta ... poro cise or_ ta an =an
 私は大きな家に住んでいる。
 
-poro cise*1 or_ ta sinen ne an pe an =an ruwe
+poro cise*1 or_ ta sinen ne an pe an=an ruwe
 大きな家にひとりで住んでいる。
 
 sineanpeta
@@ -13,7 +13,7 @@ sineanpeta
 cise, cise ka*2 peka *heman ... nep ka omanan pekor yaynu =an
 家の屋根の上を誰かが歩いているように感じた（思った）
 
-w_a soyne =an w_a inkar =an akusu
+w_a soyne=an w_a inkar=an akusu
 外に出てみると
 
 topattumi*3 kuni p poronno *ek ... arki wa,
@@ -22,22 +22,22 @@ topattumi*3 kuni p poronno *ek ... arki wa,
 as wa okay
 立っていた。
 
-nimaraha cise ka peka omanan kor an hi a= eramuan wa
+nimaraha cise ka peka omanan kor an hi a=eramuan wa
 私はその集団の一部が家の上を歩きまわっていることに気づいて
 
-a= eramutuy kusu
+a=eramutuy kusu
 驚いたので
 
-hoyupu =an wa Urayusnay un arpa =an
+hoyupu=an wa Urayusnay un arpa =an
 走ってウラユㇱナイへ行った。
 
-a= easurani kusu arpa =an
+a=easurani kusu arpa =an
 （夜襲のことを）伝えるために行った。
 
-hoyupu =an w_a arpa =an w_a
+hoyupu=an w_a arpa=an w_a
 走って行って
 
-kotan kor kur oro ta arpa =an w_a
+kotan kor kur oro ta arpa=an w_a
 村長のところに行って
 
 “tapne tapne,
@@ -49,7 +49,7 @@ topattumi kuni p*4 utar poronno arki
 wa okay ruwe ne”
 いるのです。」
 
-sekor, kotan kor kur kisarpuye ここへ、蝿だからここへ kotan kor kur kisarpuye a= eus wa, a= ye akusu
+sekor, kotan kor kur kisarpuye ここへ、蝿だからここへ kotan kor kur kisarpuye a=eus wa, a=ye akusu
 と、村長の耳の穴に、村長の耳の穴にくっ付いて言うと
 
 humse kor as tek a korka
@@ -127,22 +127,22 @@ kunne tere wa okay akusu sirkunne akusu
 sonno poka topattumi kuni p utar poronno arkiarki
 本当にも、夜襲をしかけにきた者たちが大勢、どんどんやって来た。
 
-opitta a= tuye wa a= rayke wa isam,
+opitta a=tuye wa a=rayke wa isam,
 私たちは全員切り殺してしまい、
 
 sinep ka isam no
 ひとり残らず
 
-opitta a= rayke wa isam, akusu nispa utar
+opitta a=rayke wa isam, akusu nispa utar
 全員殺してしまった。すると、長者たちは
 
-“mus, mus 神 an kusu siknu =an ruwe ne, kusu
+“mus, mus 神 an kusu siknu=an ruwe ne, kusu
 「ハエの神様のおかげで生きていられたのだから
 
-sakekar =an w_a
+sakekar=an w_a
 酒をつくって
 
-mus kamuy a= nomi kus ne” sekor haweoka kor
+mus kamuy a=nomi kus ne” sekor haweoka kor
 ハエの神様にお祈りいたしますよ。」と言って
 
 sakekar kur sakekar,
@@ -154,36 +154,36 @@ inawke kur inawke
 usa sito kar, hene
 いろいろな団子をつくったり
 
-usa a= ep pirka a= ep poronno a= kar wa
+usa a=ep pirka a=ep poronno a=kar wa
 いろいろな食べ物、おいしい食べ物をたくさんつくって
 
 sake ka tutko rerko ne wa pirka sekor ne wa
 酒も二日三日寝かせると良いといって
 
-orowa, “mus kamuy a= nomi” sekor
+orowa, “mus kamuy a=nomi” sekor
 それから「ハエの神様にお祈り申し上げます」と（言って）
 
-a= i= nomi wa
+a=i=nomi wa
 私はまつられて
 
-usa a= ep hene, inaw hene, sake hene poronno a= i= kore korka
+usa a=ep hene, inaw hene, sake hene poronno a=i=kore korka
 食べ物でもイナウでも酒でもたくさんもらったのだけど
 
-yaykata a= kor wa hosipi ka a= eaykap pe ne
+yaykata a=kor wa hosipi ka a=eaykap pe ne
 自分では（全部）持って帰ることができない
 
-kusu a= i= erura wa
+kusu a=i=erura wa
 ので、（すべて）運んでもらい、
 
-a= unihi ta
+a=unihi ta
 私の家へ、
 
-usa a= ep, usa inaw, sake hene, nep ne yakka poronno a= uni ta a= i= erura wa
+usa a=ep, usa inaw, sake hene, nep ne yakka poronno a=uni ta a=i=erura wa
 食べ物でもイナウでも酒でも、何でもたくさん私の家に運んでもらった。
 
-a= eyaykamuynere*7 kor an,
+a=eyaykamuynere*7 kor an,
 私はそれで立派な神となっている。
 
-mus a= ne ruwe ne
+mus a=ne ruwe ne
 私はハエである。
 

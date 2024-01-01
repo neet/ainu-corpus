@@ -1,16 +1,16 @@
-a= unuhu an, a= akihi an w_a
+a=unuhu an, a=akihi an w_a
 母がいて、弟がいて
 
-ren a= ne wa oka*1 =an pe ne hike*2,
+ren a=ne wa oka*1=an pe ne hike*2,
 私たちは三人で暮らしていた。
 
-a= unuhu soyne kor,
+a=unuhu soyne kor,
 母が出かけるときに
 
-“eci= acaha an ruwe ne na,
+“eci=acaha an ruwe ne na,
 「お前たちには叔父がいるんだよ。
 
-nep ka a= ep kor wa ek, nankor na,
+nep ka a=ep kor wa ek, nankor na,
 彼は何か食べ物を持ってくるだろう。
 
 asinuma isam*3 rapok,
@@ -19,7 +19,7 @@ asinuma isam*3 rapok,
 iteki e yan” sekor hawean kor patek soyne,
 決して食べてはいけないよ」とだけ言って（母は）出かけた。
 
-kor okay =an akusu,
+kor okay=an akusu,
 家にいると
 
 sonno poka, poro aynu ek wa,
@@ -28,31 +28,31 @@ sonno poka, poro aynu ek wa,
 yuk tapkiri sinep ani kane*4 wa,
 鹿の前足を一本手に持って
 
-ek wa, “e yan, haa, eci= poro ruwe an,
+ek wa, “e yan, haa, eci=poro ruwe an,
 やってきて、「食べなさい。おお、お前たち大きくなったなあ。
 
-tane *nepki, ... nepki easkay*5 pak, eci= poro ruwe an,
+tane *nepki, ... nepki easkay*5 pak, eci=poro ruwe an,
 もう働けるほど大きくなった。
 
-nisatta nepkiepaye =an kus ne na,
+nisatta nepkiepaye=an kus ne na,
 明日一緒に仕事に行こう。
 
-eci= ekanok kus ne na”, sekor hawean kor,
+eci=ekanok kus ne na”, sekor hawean kor,
 迎えに来るからな。」と（言って）
 
-hosipi wa isam, a= unuhu ek wa
+hosipi wa isam, a=unuhu ek wa
 （叔父は）帰っていった。母が戻って来て
 
-a= ye akusu, “isenram” sekor,
+a=ye akusu, “isenram” sekor,
 （何があったかを私は）母に言うと「またか」（と母は言って）
 
-“eci= onaha ka, ene hawean kor,
+“eci=onaha ka, ene hawean kor,
 「お前たちの父さんも、（叔父が）そう言って
 
 tura wa arpa wa,
 父さんを連れて行って
 
-eci= onaha ka hosipi ka somo ki ruwe ne no,
+eci=onaha ka hosipi ka somo ki ruwe ne no,
 父さんは帰ってこなかったんだ。
 
 akusu, suy ene hawean h_i”,
@@ -61,159 +61,159 @@ akusu, suy ene hawean h_i”,
 sekor hawean kor
 と言って
 
-a= unuhu iruska kor an a p ne,
+a=unuhu iruska kor an a p ne,
 母は怒っていたのだが
 
 “nisatta” sekor haw’as yakka,
 「明日」という話だったのに
 
-“sirpeker wa haw’as, nisatta ne” kunak a= ramu akusu,
+“sirpeker wa haw’as, nisatta ne” kunak a=ramu akusu,
 「明日というのは明るくなったらということだろう」と思っていると
 
 naa nisat ka ek ka somo ki, sirkunne hi ta,
 まだ夜も明けない暗いうちに（叔父は来た）
 
-”haa, eci= ekanok kusu ek =an ruwe ne”,
+”haa, eci=ekanok kusu ek=an ruwe ne”,
 「やあ、迎えに来たぞ。」
 
 sekor hawean wa, kusu,
 と言うので
 
-sipine =an kor an =an akusu,
+sipine=an kor an=an akusu,
 私は身支度をしていたところ
 
-a= unuhu retar katak sinep, kunne katak sinep i= kore wa ek wa,
+a=unuhu retar katak sinep, kunne katak sinep i=kore wa ek wa,
 母が白い糸玉を一つ、黒い糸玉を一つ私に持ってきて
 
-“nep ka e= sitoma [p] an yakun,
+“nep ka e=sitoma [p] an yakun,
 「何か恐ろしいものがいたら
 
-oro un kunne katak e= osura,
+oro un kunne katak e=osura,
 そこに黒い糸玉を投げなさい。
 
-retar katak anak siyoka un e= osura yak, pirka na”,
+retar katak anak siyoka un e=osura yak, pirka na”,
 白い糸玉は自分の後ろに投げなさい。」
 
 sekor hawean kor,
 と言って
 
-katak tup i= kore wa kusu,
+katak tup i=kore wa kusu,
 糸玉を二つ私にくれたので
 
-a= upsoro a= omare wa, arpa =an
+a=upsoro a=omare wa, arpa =an
 私はそれを懐に入れて、家を出た。
 
-ne a= acaha kor cip a= i= ore wa,
+ne a=acaha kor cip a=i=ore wa,
 その叔父の舟に乗せられて
 
-arpa =an ayne, sirpeker wa,
+arpa=an ayne, sirpeker wa,
 行くと、夜も明けて
 
-inkar =an akusu, haa, a= sitoma no okay pe
+inkar=an akusu, haa, a=sitoma no okay pe
 見ると、なんと、恐ろしいものが
 
-poronno okay, “te ta nepki =an usi ne”,
+poronno okay, “te ta nepki=an usi ne”,
 たくさんいて、「ここが仕事場だ」
 
 sekor, hawean kor, cipeyaotke wa kusu,
 と（叔父は）言いながら、舟を岸に停めたので
 
-cip or wa heyasi terke =an w_a, inkar =an akusu,
+cip or wa heyasi terke=an w_a, inkar=an akusu,
 舟から飛び降りて、見ると、
 
-haa, a= sitoma no okay pe poronno
+haa, a=sitoma no okay pe poronno
 なんと、恐ろしいものがたくさん
 
 ukomoyoyke kor okay,
 うじゃうじゃうごめいている。
 
-akusu, kunne katak eun a= osura wa,
+akusu, kunne katak eun a=osura wa,
 それで、黒い糸玉をそこに投げて
 
-retar katak siyoka un a= osura wa,
+retar katak siyoka un a=osura wa,
 白い糸玉を自分の後ろに投げて
 
-orowa, hoyupu =an ma siyoka un hosipi =an,
+orowa, hoyupu=an ma siyoka un hosipi =an,
 そこから走って引き返して
 
-retar katak karkarse hi neno, retar katak kese a= anpa*6 wa,
+retar katak karkarse hi neno, retar katak kese a=anpa*6 wa,
 白い糸玉が転がっていくのについて、白い糸玉のあとを追って
 
-hoyupu =an w_a hosipi =an korka, i= yos nep ka
+hoyupu=an w_a hosipi=an korka, i=yos nep ka
 走って、家に帰ったけれど、自分の後ろを何も
 
 ek humi ka, ek hawe ka isam no,
 （追って）来る音も、声もせず、
 
-hoyupu =an w_a, retar katak kese a= anpa wa, arpa =an ayne,
+hoyupu=an w_a, retar katak kese a=anpa wa, arpa=an ayne,
 走って白い糸玉を追って行き、ついに
 
-a= unihi soyke ta arpa =an ruwe ne wa, kusu *a, *au …
+a=unihi soyke ta arpa=an ruwe ne wa, kusu *a, *au …
 家の前についたので
 
-“a= unuhu, hosipi =an na” sekor hawean =an akusu
+“a=unuhu, hosipi=an na” sekor hawean=an akusu
 「お母さん、帰ってきたよ」と私が言うと
 
 “haa, neun ne korka” sekor hawean kor,
 「ああ、よかった」*7と母は言って
 
-apa caka wa i= kore wa, ahup =an korka,
+apa caka wa i=kore wa, ahup=an korka,
 戸を開けてくれて、私たちは中に入ったのだけれど
 
-nep ka i= yos ek hawe ka isam pe ne kusu,
+nep ka i=yos ek hawe ka isam pe ne kusu,
 何も後を追ってくる声もしなかったので
 
-a= eramusinne wa okay =an, orowano,
+a=eramusinne wa okay =an, orowano,
 私たちは安心していた。それから
 
-tane poro =an pe ne kusu,
+tane poro=an pe ne kusu,
 もう私たち（兄弟）は成長して
 
-a= akihi turano ekimne arpa =an w_a,
+a=akihi turano ekimne arpa=an w_a,
 弟と一緒に山に行って
 
-yuk ne yakka, isepo ne yakka a= rayke wa ek =an w_a,
+yuk ne yakka, isepo ne yakka a=rayke wa ek=an w_a,
 鹿でもウサギでも獲ってきて
 
-a= unuhu a= ere kor okay =an
+a=unuhu a=ere kor okay =an
 母に食べさせて暮らしていた。
 
-a= unuhu pirkareska =an kor okay =an ayne,
+a=unuhu pirkareska=an kor okay=an ayne,
 母を十分に養って暮らし
 
-tane poro =an pe ne kusu,
+tane poro=an pe ne kusu,
 もう私たち（兄弟）は大きくなったので、
 
-poro kamuy ka a= osikoni ka ki p ne kusu,
+poro kamuy ka a=osikoni ka ki p ne kusu,
 大きな熊も獲ってくるので
 
-a= unuhu pirka a= reska ki,
+a=unuhu pirka a=reska ki,
 母を十分に養い
 
-pirka a= ep a= ere kor okay =an ayne,
+pirka a=ep a=ere kor okay=an ayne,
 （母に）良い食べ物を食べさせて、暮らしているうちに
 
-a= unuhu ka onne wa isam korka,
+a=unuhu ka onne wa isam korka,
 母も年老いて亡くなったけれど
 
-a= akihi turano ekimne ne yakka, nep a= ki yakka
+a=akihi turano ekimne ne yakka, nep a=ki yakka
 弟と一緒に、山に行くのでも何をするのでも
 
-a= akihi turano patek an nankor
+a=akihi turano patek an nankor
 弟と一緒にしている
 
-asinuma ka tane poro =an pe ne kusu,
+asinuma ka tane poro=an pe ne kusu,
 私ももう大人になったので
 
-pirka menoko a= etun w_a a= kor wa,
+pirka menoko a=etun w_a a=kor wa,
 良い妻をめとって
 
-a= akihi ka
+a=akihi ka
 弟にも
 
-pirka menoko a= etun w_a a= kore wa,
+pirka menoko a=etun w_a a=kore wa,
 良い妻をめとらせて
 
-a= akihi turano, nep a= ki yakka, a= kar kor okay =an ruwe ne se[kor]
+a=akihi turano, nep a=ki yakka, a=kar kor okay=an ruwe ne se[kor]
 弟と一緒に、何をするのも一緒にして暮らしたのであった、と。
 

@@ -16,10 +16,10 @@ V kunne hene
 V tokap hene
 昼も
 
-V ci= ki pa ki kor
+V ci=ki pa ki kor
 そうして
 
-V okay =as akusu
+V okay=as akusu
 暮らしていたところ
 
 V u sineanto
@@ -37,13 +37,13 @@ V u tokap hene
 V kemeyki patek
 針仕事ばかり
 
-V nepki ne <y>a= ki
+V nepki ne <y>a=ki
 仕事にして
 
-V a= kemru <y>oka
+V a=kemru <y>oka
 私の針の後
 
-V a= kemru etok
+V a=kemru etok
 私の針の前を
 
 V tu imeru kur
@@ -55,7 +55,7 @@ V re imeru kur
 V kotuytuyke na
 横切る。
 
-V pan a= kor yupi
+V pan a=kor yupi
 兄さんは
 
 V iyoykir kotca ta
@@ -94,7 +94,7 @@ V u nepki ne ki pa
 V ne ki kor
 そうやって
 
-V oka =an akusu
+V oka=an akusu
 暮らしていると
 
 V sineanto
@@ -160,28 +160,28 @@ V u yaykorukpa
 V ene itak h_i
 こう言った。
 
-V “a= kor_ turesi
+V “a=kor_ turesi
 「わが妹（妻）よ。
 
-V uymam =an yakne
+V uymam=an yakne
 私が交易に行ったなら
 
 V usa macikor
 色々な女の宝物を
 
-V a= kuspa ki wa
+V a=kuspa ki wa
 運んできて
 
-V u yan =an ora
+V u yan=an ora
 向こうに上陸したら
 
-V usa u <y>uymam =an wa
+V usa u <y>uymam=an wa
 交易をして
 
 V sake ne kuni p
 酒の材料を
 
-V a= kusa ki wa
+V a=kusa ki wa
 運んできて
 
 V kamuy ne yakka
@@ -190,7 +190,7 @@ V kamuy ne yakka
 V aynu ne yakka
 人々にも
 
-V a= siye[y]pere
+V a=siye[y]pere
 それを食べさせるよ。
 
 V enune p ne na
@@ -202,7 +202,7 @@ V u tutko rerko
 V u ne na sore[kus]
 だから
 
-V apunno e= an
+V apunno e=an
 安心して
 
 V enune p ne na"
@@ -232,13 +232,13 @@ V isam ruwe ne
 V tane <y>anakne
 もう
 
-V pan a= kor yupi
+V pan a=kor yupi
 私の兄が
 
 V u yan kunihi
 舟で帰ってくるだろうと
 
-V a= rampiskare
+V a=rampiskare
 日を数え
 
 V tane nisatta
@@ -247,7 +247,7 @@ V tane nisatta
 V u yan kunihi
 帰ってくるだろうと
 
-V a= tere ki wa
+V a=tere ki wa
 待っていた。
 
 V u yan akusu
@@ -271,19 +271,19 @@ V <y>arki hine
 V ene itak h_i
 こう言った。
 
-V “a= kor ...
+V “a=kor ...
 わが
 
-p a= kor akihi
+p a=kor akihi
 「わが弟の
 
 V ene okay pe
 することを
 
-V a= sitoma wa
+V a=sitoma wa
 恐れて
 
-V a= ne pa yakka
+V a=ne pa yakka
 いたのだが
 
 V somo nu no, sukup kur anak
@@ -298,7 +298,7 @@ V noki un cise
 V somo kar pe ne wa
 作らないものだと
 
-a= ye pa yakka
+a=ye pa yakka
 私は言ったのに
 
 V somo nu no,
@@ -322,10 +322,10 @@ V repoparse
 V asur ek wa kusu
 知らせが来たので
 
-V a= kor_ turesi
+V a=kor_ turesi
 妹よ
 
-V a= e= koasurkor
+V a=e=koasurkor
 お前に知らせにきた
 
 V enune ruwe
@@ -337,7 +337,7 @@ V ne na" sekor
 V itak pa hike
 言ったのだが
 
-V pan a= kor yupi
+V pan a=kor yupi
 私の兄
 
 V sinuma ka ta
@@ -358,13 +358,13 @@ u yaynu <y>=an kusu
 V saranpekarpe
 かみそりを
 
-V a= sapte hine
+V a=sapte hine
 取り出して
 
 V u yaykotpattuye
 自分ののどを切り裂いた
 
-V a= ki akusu
+V a=ki akusu
 すると
 
 V mokor he ne ya
@@ -373,10 +373,10 @@ V mokor he ne ya
 V ray he ne ya
 死んでいるのか
 
-V u <y>a= ki ayne
+V u <y>a=ki ayne
 そうしているうちに
 
-V mos =an akusu
+V mos=an akusu
 目が覚めると
 
 V kotan pa <y>un kur
@@ -385,16 +385,16 @@ V kotan pa <y>un kur
 V wen aynu sani
 貧乏人のこせがれが
 
-V somo cise i= kouhuyka yakun
+V somo cise i=kouhuyka yakun
 家と一緒に私を焼かなければ
 
 V yaykatcipi
 生き返ることが
 
-V a= easkay ki pe
+V a=easkay ki pe
 できたのに
 
-V cise i= kouhuyka
+V cise i=kouhuyka
 家と一緒に私を焼いてしまった
 
 V enune ki wa
@@ -403,13 +403,13 @@ V enune ki wa
 V yaykatcipi ka
 生き返ることも
 
-V a= eaykap wa
+V a=eaykap wa
 できなくなって
 
 V kemkacikappo ne
 ケﾑカチカッポに
 
-V u yaykar =an wa
+V u yaykar=an wa
 姿を変えて
 
 V uhuy ikuspe
@@ -424,10 +424,10 @@ V u cis turano
 V u terketerke
 跳ね回って
 
-V a= ki akusu
+V a=ki akusu
 いると
 
-V pan a= kor yupi
+V pan a=kor yupi
 兄さんが
 
 u yap wa arki
@@ -439,7 +439,7 @@ V u tuyma sir wano
 V u <y>arki ki wa
 やってきて
 
-V “a= kor_ turesi
+V “a=kor_ turesi
 「わが妹が
 
 V makanak ne hine
@@ -460,13 +460,13 @@ V hawe<y>an ki kor
 V u <y>arki hine
 やってきて
 
-V “a= kor_ turesi ka ta
+V “a=kor_ turesi ka ta
 「わが妹もこのように
 
 V ray wa isam pe
 死んでしまったのなら
 
-V u ray =an kusu ne"
+V u ray=an kusu ne"
 私も死のう」
 
 sekor hawean kor
@@ -484,58 +484,58 @@ V otu suy re suy
 kasi un yayosura yakka
 その上に身を躍らせたが
 
-V a= yaynure ani
+V a=yaynure ani
 私が心をあやつって
 
 V kasi ta teske
 刃の上からそれた。
 
-kusu ora yayeramuan hi kusu ene itak =an h_i
+kusu ora yayeramuan hi kusu ene itak=an h_i
 そこで、意識をとりもどしたので、私はこう言った。
 
 “kotan pa un kur wen aynu sani
 「村の上はずれの、貧乏人のこせがれが、
 
-a= kor yupi repoparse wa isam ruwe ne sekor i= kosunke wa
+a=kor yupi repoparse wa isam ruwe ne sekor i=kosunke wa
 兄さんが沖に流されてしまったと嘘をついたので、
 
-iruska =an kusu yaykotpattuye =an a korka
+iruska=an kusu yaykotpattuye=an a korka
 憤って自分ののどを掻き切ったのだけれど
 
-somo i= uhuyka yakun siknu =an easkay pe
+somo i=uhuyka yakun siknu=an easkay pe
 私の体を焼かなければ、生き返ることができたのに
 
-i= uhuyka p ne kusu kemkacikappo ne konto yaykar =an.
+i=uhuyka p ne kusu kemkacikappo ne konto yaykar =an.
 私を焼いたので、ケﾑカチカッポに姿を変えました。
 
-somo tapne ne hi a= ye wa
+somo tapne ne hi a=ye wa
 これこれこういうわけだということを言って
 
-a= hekote nispa a= nure somo ki yak wen wa kusu
+a=hekote nispa a=nure somo ki yak wen wa kusu
 あなたに聞かせなければいけないと思ったので
 
-kemkacikappo ne yaykar =an h_ine, a= e= tere ruwe ne na.
+kemkacikappo ne yaykar=an h_ine, a=e=tere ruwe ne na.
 ケﾑカチカッポに姿を変えて、あなたを待っていたのです。
 
-e= wen kor yupi neun e= kar yakka pirka kusu
+e=wen kor yupi neun e=kar yakka pirka kusu
 悪い兄さんをどのようにしようと結構ですが
 
-i= erampokiwen a ciki sake e= kor kor
+i=erampokiwen a ciki sake e=kor kor
 私をあわれに思ったならば、酒宴の時には
 
-mintar or_ ta nitne inaw e= asi wa
+mintar or_ ta nitne inaw e=asi wa
 庭に固いイナウを立てて
 
-nitne sirari e= kocarpa yak poka e= kar pe ne.
+nitne sirari e=kocarpa yak poka e=kar pe ne.
 固い酒かすを捧げてくれれば
 
-a= uk wa a= e kusu ne."
+a=uk wa a=e kusu ne."
 それを受け取って、いただきますから」
 
-sekor a= kor yupi a= yaynure ani itak =an ruwe ne akusu
+sekor a=kor yupi a=yaynure ani itak=an ruwe ne akusu
 と、兄さんの心に話しかけると
 
-orano a= kor yupi paraparak kor mintar or_ ta suy yayosura.
+orano a=kor yupi paraparak kor mintar or_ ta suy yayosura.
 兄さんは大泣きしながら、また庭に身を投げ出した。
 
 sekor kemkacikappo hawean sekor.

@@ -1,37 +1,37 @@
-a= unuhu an a= onaha an h_ine ...
+a=unuhu an a=onaha an h_ine ...
 母がいて、父がいて...
 
-a= onaha WA INAINDA.
+a=onaha WA INAINDA.
 父親はいないんだ。
 
-a= unuhu an h_ine oka =an h_ike,
+a=unuhu an h_ine oka=an h_ike,
 母とふたりで暮らしていたが、
 
-a= unuhu earkinne yuptek pe ne wa,
+a=unuhu earkinne yuptek pe ne wa,
 母はたいへん働き者で、
 
-nep a= e rusuy nep a= kor_ rusuy ka somo ki no oka =an ayne,
+nep a=e rusuy nep a=kor_ rusuy ka somo ki no oka=an ayne,
 何を食べたいとも何を欲しいとも思わずに暮らしているうちに、
 
-poro =an h_i orano konto okkayo iki sir_ neno kane cepkoyki =an w_a,
+poro=an h_i orano konto okkayo iki sir_ neno kane cepkoyki=an w_a,
 大きくなると私は、男がするのと同じように魚を捕るようになった。
 
 ruyanpe an wa nay poro kor orano,
 大雨が降ると沢の水かさが増すので、
 
-cepkoyki =an wa cep a= rura a a= rura a kor a= unuhu satke wa,
+cepkoyki=an wa cep a=rura a a=rura a kor a=unuhu satke wa,
 魚をたくさん捕って家に運んでくると、母親がそれを干して、
 
-sorekusu mata an kor nep a= e rusuy ka somo ki no oka =an pe ne a (p),
+sorekusu mata an kor nep a=e rusuy ka somo ki no oka=an pe ne a (p),
 冬になっても何を食べたいとも思わずにくらしていた。
 
-ar suy ne suy nay poro wa cepkoyki =an kusu, ora arpa =an.
+ar suy ne suy nay poro wa cepkoyki=an kusu, ora arpa =an.
 ある時また、沢の水が増えたので魚を捕りに沢を上った。
 
-kotan enkor_ ta kotan kim ta ki hine arpa =an ruwe ne a p,
+kotan enkor_ ta kotan kim ta ki hine arpa=an ruwe ne a p,
 村の上手、村の山手へ行って、
 
-cep urennaypiskan cep a= yanke a a= yanke a kor an =an akus_,
+cep urennaypiskan cep a=yanke a a=yanke a kor an=an akus_,
 沢の両岸に魚を上げていたところ、
 
 hemanta nay pes san hum konna sepepatki.
@@ -43,13 +43,13 @@ hemanta nay pes san hum konna sepepatki.
 sekor yaynu =an.
 と思い、
 
-*aeoay... a= sitoma hi kusu ranko *ho...
+*aeoay... a=sitoma hi kusu ranko *ho...
 おそろしいので、
 
 teeta horak ranko sinricihi wa ni owpoporinne*1 wa hetuku,
 昔倒れた桂の木の根元から若木が生えている、
 
-tumu ta arpa =an h_ine mono a =an wa an =an akus,
+tumu ta arpa=an h_ine mono a=an wa an=an akus,
 その中に入って座っていると、
 
 sorekusu kaske hererse kane si poro kamuy san hine,
@@ -64,34 +64,34 @@ konto aynu ne hine, kunne kosonte utomciwre
 kamuy ne kus koraci an kur ek h_ine,
 カムイであるからこその立派な人となって、
 
-i= tukari hi kusu
+i=tukari hi kusu
 私の前までやってきたので、
 
-ora a= sapa a= uk h_ine oripak =an h_ine an =an akusu,
+ora a=sapa a=uk h_ine oripak=an h_ine an=an akusu,
 かぶりものを取ってかしこまっていると、
 
-ek h_ine i= tukari ta mono a hine,
+ek h_ine i=tukari ta mono a hine,
 やってきて私の前に座り、
 
-i= erankarap ruwe ne hine oraun,
+i=erankarap ruwe ne hine oraun,
 私に挨拶をして、
 
 ene hawean h_i.
 それからこう言った。
 
-"kamuy or_ ta *ayaykotom ... nupuri kor kamuy poho a= ne wa an =an korka,
+"kamuy or_ ta *ayaykotom ... nupuri kor kamuy poho a=ne wa an=an korka,
 「私は山を領するカムイの息子だが、
 
-kamuy or_ ta a= yaykotomka p isam.
+kamuy or_ ta a=yaykotomka p isam.
 カムイの世界には私にふさわしいものがいない。
 
-aynu or un inkar =an kor eani patek a= e= yaykotomka wa kusu,
+aynu or un inkar=an kor eani patek a=e=yaykotomka wa kusu,
 人間のほうを眺めてみると、お前一人が私にふさわしいものだったので、
 
-a= e= nukar poka ki rusuy kusu,
+a=e=nukar poka ki rusuy kusu,
 ひと目でも会いたいと思って、
 
-san =an ruwe ne."
+san=an ruwe ne."
 山を下りてきたのだ」
 
 sekor kane hawean *na... wa kusu,
@@ -100,7 +100,7 @@ sekor kane hawean *na... wa kusu,
 "ene an imi poka pirka no ki ka somo ki.
 「こんなふうに、満足な着物すら着ていない者です。
 
-hemanta ne a= nukar_ rusuy pe an?"
+hemanta ne a=nukar_ rusuy pe an?"
 会いたいなどというほどの者ではありません」
 
 sekor hawean =an.
@@ -109,109 +109,109 @@ sekor hawean =an.
 "imi anak neun oka yakka pirka korka,
 「着るものなどどうでもよいのだ。
 
-*kew... e= kewtumu a= ramosma wa ne."
+*kew... e=kewtumu a=ramosma wa ne."
 お前の心根が気に入ったのだ」
 
 sekor hawean kor orano,
 と言いながら、
 
-i= hekote ek orano i= koterke ayne ye p a= nu hine,
+i=hekote ek orano i=koterke ayne ye p a=nu hine,
 私のほうにやってきて、私に迫ってくる。結局、その言葉を聞き入れることにして、
 
-oraun oro ta nen nen i= koysoytak ayne ora,
+oraun oro ta nen nen i=koysoytak ayne ora,
 そこで色々な話を交わし、
 
 suy nay turasi arpa wa isam h_ine ora,
 そのクマの若者はまた沢伝いに山に帰っていった。
 
-a= sike a= kar h_ine iwak =an hine an =an ruwe ne orano,
+a=sike a=kar h_ine iwak=an hine an=an ruwe ne orano,
 私は荷物をまとめて家に戻り、
 
 konto ceprura =an.
 魚を運んだ。
 
-ikoytupa pa rupne mat utar ka cep a= kore wa rura pa.
+ikoytupa pa rupne mat utar ka cep a=kore wa rura pa.
 貧しいおばあさんたちのところへ、魚を配ってあるいた。
 
-"a= kor pon katkemat an kuskeraypo."
+"a=kor pon katkemat an kuskeraypo."
 「お嬢さんのおかげだ」
 
 sekor hawoka kor orano ki kor,
 と、おばあさん方は感謝の言葉を口にした。
 
-orano nea nay or un arparusuy =an kor
+orano nea nay or un arparusuy=an kor
 そして、あの沢へ行きたくなって行くと、
 
-i= ekari nea kamuy san wa ukosini =an.
+i=ekari nea kamuy san wa ukosini =an.
 こっちのほうへあのクマが下りて来て、臥所をともにした。
 
-orano konto kamuy or wa i= ka osike wa san wa a= se wa hosipi =an kor,
+orano konto kamuy or wa i=ka osike wa san wa a=se wa hosipi=an kor,
 そしてクマが私のために持ってきてくれたものを背負って、家に戻った。
 
-"hinak wa ene okay pe a= se ruwe ene an?"
+"hinak wa ene okay pe a=se ruwe ene an?"
 「どこから、そんなものを背負ってきたんだい？」
 
-sekor a= unu haw(ean).
+sekor a=unu haw(ean).
 と、母親は言う。
 
-a= esina ka eaykap h_i kusu,
+a=esina ka eaykap h_i kusu,
 隠しておくこともできないので、
 
 "tapne kane ne ruwe ne."
 「これこれこういうわけなの」
 
-sekor hawean =an akusu a= ona ...
+sekor hawean=an akusu a=ona ...
 と言うと、
 
-a= unu konto mosmano an h_ine orano,
+a=unu konto mosmano an h_ine orano,
 母親は何も言わなかった。
 
-neno iki =an rapok konto honkor =an ruwe ne hine,
+neno iki=an rapok konto honkor=an ruwe ne hine,
 それからも同じようにしているうちに、私はお腹が大きくなってきた。
 
-orano kamuy or un arparusuy =an kor ne ni ...
+orano kamuy or un arparusuy=an kor ne ni ...
 そして、クマのカムイのところへ行きたくなって、
 
-owpoporinne ranko or_ ta arpa =an kor i= ekari san.
+owpoporinne ranko or_ ta arpa=an kor i=ekari san.
 ひこ生えの桂の木のところへ行くと、そこに下りてくる。
 
-oro ta utura sinot =an ne ya nen nen i= koysoytak kor oka =an ayne nuwap =an akusu,
+oro ta utura sinot=an ne ya nen nen i=koysoytak kor oka=an ayne nuwap=an akusu,
 そこで一緒に遊んだり、いろいろ話をしたりしているうちに、出産の日を迎えると、
 
-sorekusu kamuy ne kusu koraci an okkayo hekaci a= kor orano,
+sorekusu kamuy ne kusu koraci an okkayo hekaci a=kor orano,
 カムイであるからこその立派な男の子が生まれ、
 
-a= unu earkinne eyaykopuntek.
+a=unu earkinne eyaykopuntek.
 母はとてもよろこんでくれた。
 
-orano ipe anak i= ka osike wa san pe ne kusu,
+orano ipe anak i=ka osike wa san pe ne kusu,
 食べ物はクマのカムイがしょっちゅう私のために持ってきてくれるので、
 
-nep a= e rusuy ka somo ki no oka =an, uturu isam no ki*2 p ne kusu ki kor,
+nep a=e rusuy ka somo ki no oka =an, uturu isam no ki*2 p ne kusu ki kor,
 何不自由なく暮らしていた。
 
-orano oka =an ruwe ne ayne,
+orano oka=an ruwe ne ayne,
 そうやって暮らしているうちに、
 
-suy honkor =an h_ine *ma
+suy honkor=an h_ine *ma
 またお腹が大きくなり、
 
-ruwe ne hine matkaci a= kor_ ruwe ne ora,
+ruwe ne hine matkaci a=kor_ ruwe ne ora,
 女の子を産んだ。
 
-hekattar_ nukar_ rusuy kor i= sik'okita(?)
+hekattar_ nukar_ rusuy kor i=sik'okita(?)
 クマのカムイは子供たちに会いたくなると、？
 
-a= kor son utar a= tura wa arpa =an wa a= nukare ne ya
+a=kor son utar a=tura wa arpa=an wa a=nukare ne ya
 私は子供たちを連れて行って会わせた。
 
 nen nen ki ayne ene hawean h_i,
 そんなことをしているうちに、ある日夫はこう言った。
 
-"tan katkemat e= ne wa itak =an ciki e= inu katu ene an h_i.
+"tan katkemat e=ne wa itak=an ciki e=inu katu ene an h_i.
 「妻よ、私の言うことをよく聞いておくれ。
 
-kamuy or_ ta a= kor kus ne menoko an pe ora,
+kamuy or_ ta a=kor kus ne menoko an pe ora,
 私はカムイの世界に妻となる予定の女がいたのだが、
 
 earkinne ipokas ne ya,
@@ -220,16 +220,16 @@ earkinne ipokas ne ya,
 kamuy ne yakka ipokas ne ya ki wa,
 カムイとはいえ醜いので、
 
-a= kor etoranne wa kusu iki =an h_ine,
+a=kor etoranne wa kusu iki=an h_ine,
 妻にする気にならずにいたのだが、
 
-hine ora ene sorekus_ a= koyki p a= rura siri a= ona oyamokte hine ora,
+hine ora ene sorekus_ a=koyki p a=rura siri a=ona oyamokte hine ora,
 こんなふうに私が自分の捕ったものを運んでいるのを、父が不審に思っていて、
 
-inkar akusu ene e= or un san =an siri a= onaha nukar hine orano ene hawean h_i,
+inkar akusu ene e=or un san=an siri a=onaha nukar hine orano ene hawean h_i,
 お前のところに降りていくところを父に見られてしまい、このように言われた。
 
-taan e= kor_ rusuy menoko ka kamuy sasimi ne,
+taan e=kor_ rusuy menoko ka kamuy sasimi ne,
 『あのお前が妻にしたいと思っている女は、カムイの子孫なのだ。
 
 unuhu ka kamuy sasimi ne.
@@ -238,127 +238,127 @@ unuhu ka kamuy sasimi ne.
 hekote nispa tunasno isam hine orano yaykata matnepoho resu wa an katkemat ne.
 夫が早くに亡くなって、ひとりで娘を育てていたのだ。
 
-kamuy... arke kamuy arke aynu ne pa p ne neno e= iki ka eaykap kusu,
+kamuy... arke kamuy arke aynu ne pa p ne neno e=iki ka eaykap kusu,
 ふたりとも半神半人で、お前のしたいようにはできないので、
 
-ipokas wa e= emaka yakka e= kor kus ne menoko e= ewtanne yak easir pirka p ne na.'
+ipokas wa e=emaka yakka e=kor kus ne menoko e=ewtanne yak easir pirka p ne na.'
 醜くて嫌だといっても、お前の婚約者である女と結婚したほうがいいのだ』
 
-sekor kane hawean, a= onaha ki wa,
+sekor kane hawean, a=onaha ki wa,
 などと父は言う。そして、
 
-a= ye p e= hayta yak sorekus_ arwenmosir a= e= kooterke p ne na.'
+a=ye p e=hayta yak sorekus_ arwenmosir a=e=kooterke p ne na.'
 『わしの言うことが聞けないのなら、それこそ地獄に踏み落としてやるからな』
 
-sekor a= ona hawean wa,
+sekor a=ona hawean wa,
 と言う。
 
-ene a= ye hi ka isam kusu,
+ene a=ye hi ka isam kusu,
 何も言いようがないので、
 
-konto uturu tuymano a= e= nukar kusu san =an.
+konto uturu tuymano a=e=nukar kusu san =an.
 これからは時々しか会いに来られなくなるが、
 
-nep e= eranak ka sa(k)?
+nep e=eranak ka sa(k)?
 お前に不自由はさせない。
 
 rapokke konto,
 そのうちに、
 
-ney wa ka na a= kor son utar_ nukar hine,
+ney wa ka na a=kor son utar_ nukar hine,
 どこからか、わが子たちに会いに、
 
-ney wa ka sorekus_ a= kateomare okkayo ek wa,
+ney wa ka sorekus_ a=kateomare okkayo ek wa,
 私の見込んだ男がやってきて、
 
-a= kor son utar ona ne kor pa yakne,
+a=kor son utar ona ne kor pa yakne,
 子供たちの父親となるだろう。そうしたら、
 
-ora sukup hontom ta a= e= uk wa,
+ora sukup hontom ta a=e=uk wa,
 まだ若いうちに私がお前を連れて行こう。
 
-ne aynu e= ewtanne a kor aynu sani e= kor wa e= hoppa wa,
+ne aynu e=ewtanne a kor aynu sani e=kor wa e=hoppa wa,
 その男と夫婦になって人間の子供を生んだら、その子供をお前は残して、
 
-nea kamuy a= poho,
+nea kamuy a=poho,
 あのカムイの息子、
 
-a= poho hoski ...
+a=poho hoski ...
 私の息子を先に…
 
-a= po anakne kamuy or un*3 ...
+a=po anakne kamuy or un*3 ...
 私の息子はカムイの世界へ…
 
-kamuy or_ ta po ka a= sak,
+kamuy or_ ta po ka a=sak,
 カムイの世界では、私は子供がいない。
 
-a= emaka a ...
+a=emaka a ...
 嫌いな…
 
 ipokas wa ne ya,
 私の妻は醜くもあるし、
 
-nep kar yakka eaykap ne yak ye, a= macihi ki wa,
+nep kar yakka eaykap ne yak ye, a=macihi ki wa,
 何をやってもできないという話だし、
 
-a= ekonukosne yakka ora po ka sak wa,
+a=ekonukosne yakka ora po ka sak wa,
 憎らしくてしょうがないのだが、子供ができない。
 
-poeykoytupa =an kamuy or_ ta ki kusu,
+poeykoytupa=an kamuy or_ ta ki kusu,
 カムイの世界で子供が欲しいので、
 
-kamuy a= po anak kamuy or un a= uk wa,
+kamuy a=po anak kamuy or un a=uk wa,
 カムイである私の息子をカムイの国に連れて行って、
 
-kamuy or_ ta a= sikaoykire.
+kamuy or_ ta a=sikaoykire.
 カムイの世界で私の面倒をみさせる。
 
-a= onaha a= nukare yakne a= onaha ne yakka eyaykopuntek.
+a=onaha a=nukare yakne a=onaha ne yakka eyaykopuntek.
 父に見せたならば、父も喜ぶ。
 
-nea a= macihi ne yakka po sak kusu,
+nea a=macihi ne yakka po sak kusu,
 妻も子供がいないのだから、
 
-a= po arpa yakun sorekusu eoripak ne ya ki yakun,
+a=po arpa yakun sorekusu eoripak ne ya ki yakun,
 私の息子が行けば、敬ってくれるだろう。
 
-ora sukup hontom ta a= e= uk wa kamuy or_ ta sonno ukor sino ukor a= ki kus ne.
+ora sukup hontom ta a=e=uk wa kamuy or_ ta sonno ukor sino ukor a=ki kus ne.
 そうしたら、まだ若いうちに、お前を連れて来て、カムイの国で本当の夫婦となろう。
 
-a= matnepo anak a= hoppa ... e= hoppa wa ne yakne,
+a=matnepo anak a=hoppa ... e=hoppa wa ne yakne,
 私の娘は置いていくことになるが、
 
-sorekus_ aynu mosir ka ta sorekusu e= unuhu siknu hine *sikao ...
+sorekus_ aynu mosir ka ta sorekusu e=unuhu siknu hine *sikao ...
 人間の世界でお前の母が生きながらえると、
 
-eun ... e= isam yakun a= erampokiwen kusu tunas e= unuhu ka isam nankor kusu,
+eun ... e=isam yakun a=erampokiwen kusu tunas e=unuhu ka isam nankor kusu,
 お前がいなくなったら気の毒なので、早くにお前の母親も亡くなるだろう。
 
-okake ta e= hekote nispa e= matnepoho epirka oasi p ne ruwe ne na.
+okake ta e=hekote nispa e=matnepoho epirka oasi p ne ruwe ne na.
 その後は、お前の夫は娘のおかげで幸せに暮らすことになるから、
 
-neno e= iki p ne na."
+neno e=iki p ne na."
 そういうふうにするのだよ」
 
-sekor a= hekote nispa.
+sekor a=hekote nispa.
 と、私の夫は言う。
 
-earkinne kewtum or_ ta a= ruska korka ene a= ye hi ka isam no, orano an =an.
+earkinne kewtum or_ ta a=ruska korka ene a=ye hi ka isam no, orano an =an.
 内心とても腹が立ったが、何とも言いようもないままにいた。
 
-rapokke ney wa ne esoyne aynu humas wa *sa ... soyne =an akusu,
+rapokke ney wa ne esoyne aynu humas wa *sa ... soyne=an akusu,
 そのうち、どこからか、家の外で人の声が聞こえるので出てみると、
 
 sorekusu kamuy ne kusu koraci an okkaypo,
 カムイのような立派な若者が、
 
-ikayop takup se kane*4 hine soy ta as h_ine a= ahunte.
+ikayop takup se kane*4 hine soy ta as h_ine a=ahunte.
 ただ矢筒だけを背負って外に立っているので、家に上げた。
 
-kamuy ye wa a= nu p ne a= ahunte hine orano,
+kamuy ye wa a=nu p ne a=ahunte hine orano,
 クマのカムイが言っていたことだったので家に上げると、
 
-akusu hine mono a kusu orano a= kor son utar ona ne ye pa kor,
+akusu hine mono a kusu orano a=kor son utar ona ne ye pa kor,
 入って座った。すると、子供たちが「お父さんだ」と言いながら、
 
 seturuhu wa kotcake wa koterke pa p,
@@ -367,130 +367,130 @@ seturuhu wa kotcake wa koterke pa p,
 konto nea okkaypo ka neun ramu ka somo ki no
 その若者も何も気にもせず、
 
-a= kor son utar earkinne omap kor orano oka =an.
+a=kor son utar earkinne omap kor orano oka =an.
 子供たちをとてもかわいがっている。
 
 orano ekimne wa yuk ne ciki kamuy ne ciki nuwe koan wa,
 そして、狩に行くと、シカでもクマでもたくさん捕ってきて、
 
-nep a= e rusuy nep a= kor_ rusuy.
+nep a=e rusuy nep a=kor_ rusuy.
 何不自由なく暮らしていた。
 
-a= unu anak a= kor son matkaci kay,
+a=unu anak a=kor son matkaci kay,
 母は娘をおぶって、
 
 okkayo hekaci teke ani kane wa kotan or peka sinewe kor oka =an.
 男の子の手を引いて、村の中を遊びに行き歩いている。
 
-rapokke nea a= poho poro wa
+rapokke nea a=poho poro wa
 そのうち、息子も大きくなって、
 
 yuk ne ciki kamuy ne ciki onaha turano eawnarura kor oka a p,
 父親と一緒にシカやクマをたくさんとってくるようになった。
 
-konto sihontom wano a= poho isam.
+konto sihontom wano a=poho isam.
 そして、まだこれからという時に、息子はいなくなってしまった。
 
-hi anak kamuy or un arpa wa ne kuni a= ramu hikeka a= unu ka neun ramu ka somo ki.
+hi anak kamuy or un arpa wa ne kuni a=ramu hikeka a=unu ka neun ramu ka somo ki.
 ということは、カムイの国へ行ったのだと思ったが、母も何も気にする様子がない。
 
-ne a= hokuhu ka neun ramu ka somo ki no oka =an.
+ne a=hokuhu ka neun ramu ka somo ki no oka =an.
 夫も何も気にとめることなくいた。
 
-orano nea a= matnepoho ...
+orano nea a=matnepoho ...
 そして、例の私の娘 ...
 
-sorekusu rapokke nea okkaypo a= kopokor.
+sorekusu rapokke nea okkaypo a=kopokor.
 そのうち、その若者との間に子供ができた。
 
-okkayo ne ya menoko ne ya a= kopokor.
+okkayo ne ya menoko ne ya a=kopokor.
 男の子も女の子も生まれた。
 
-poronno pokor =an wa sorekusu,
+poronno pokor=an wa sorekusu,
 たくさんの子供に恵まれ、
 
-rapokkehe a= unuhu ...
+rapokkehe a=unuhu ...
 そのうち母は、
 
-nea hoski a= matnepoho sorekusu ene kar wa keraan hike isam no ki ayne,
+nea hoski a=matnepoho sorekusu ene kar wa keraan hike isam no ki ayne,
 娘は最初のうちはどうやってもおいしいものが作れないでいたが、そのうち
 
 tane kar pe ka e wa,
 （母は）娘の作ったものを食べられるようになり、
 
-nea a= matnepo aynu ewtanne wa sorekusu mippo ka kor siri a= unuhu nukar kor ora,
+nea a=matnepo aynu ewtanne wa sorekusu mippo ka kor siri a=unuhu nukar kor ora,
 その娘も結婚をして、母は孫ができた様子を見て、
 
-sine ancikar_ tu ancikar ne kor hinak un i= hoppa*5 hine isam.
+sine ancikar_ tu ancikar ne kor hinak un i=hoppa*5 hine isam.
 一日、二日のうちにこの世を去ってしまった。
 
-orano pirka a= osura ki.
+orano pirka a=osura ki.
 そこで立派な葬式をあげた。
 
-katkemat a= osura kuni kasu akkari ki ruwe ne hine orano oka =an.
+katkemat a=osura kuni kasu akkari ki ruwe ne hine orano oka =an.
 普通の女性の葬儀以上に盛大な葬儀をとりおこなった。
 
 orano kotan kor utar ikoytupa pa.
 そして、村人に困っているものがいたら、
 
-rupne mat utar_ ne yakka a= ipere pa a= ikorpare pa,
+rupne mat utar_ ne yakka a=ipere pa a=ikorpare pa,
 年老いた女性にも食べものを与え、ほどこしをしてやった。
 
-"a= kor pon katkemat an kusu an kusu."
+"a=kor pon katkemat an kusu an kusu."
 「若奥さんがいるおかげだ」
 
-sekor hawoka kor a= i= ukoaynukor *a=i=uko... ki kor orano oka =an.
+sekor hawoka kor a=i=ukoaynukor *a=i=uko... ki kor orano oka =an.
 と言いながら、みんな私を尊敬してくれた。
 
-a= hekote nispa ne yakka ki kor oka =an.
+a=hekote nispa ne yakka ki kor oka =an.
 私の夫もみんなに尊敬されていた。
 
-rapokke ios a= kor hekattar utar ka rupne ora,
+rapokke ios a=kor hekattar utar ka rupne ora,
 そのうち、後から生まれた子供たちも大きくなり、
 
-ueinkar*6 =an orano ki wa inkar ...
+ueinkar*6=an orano ki wa inkar ...
 千里眼で見通してみると…
 
-kamuy or un inkar =an kor,
+kamuy or un inkar=an kor,
 カムイの国を見通してみると、
 
-kamuy or_ ta a= poho sorekus_ ekimne wa yuk ne ciki kamuy ne ciki nuwe koan wa,
+kamuy or_ ta a=poho sorekus_ ekimne wa yuk ne ciki kamuy ne ciki nuwe koan wa,
 カムイの国で私の息子は狩に行ってシカやクマをたくさん捕り、
 
-a= ekasi utar ere pa.
+a=ekasi utar ere pa.
 おじいさんたちに食べさせて、
 
-ineapkusun a= poho omap pa wa iki pa ya ka a= eramiskari siri a= nukar kor an =an.
+ineapkusun a=poho omap pa wa iki pa ya ka a=eramiskari siri a=nukar kor an =an.
 おじいさんたちにとてもかわいがられて暮らしている様子を見ていた。
 
-patek a= eyaykosiramsuypa a= poho ne p ne kusu ki kor an =an ayne,
+patek a=eyaykosiramsuypa a=poho ne p ne kusu ki kor an=an ayne,
 一番気がかりだったことが息子のことだったので、そうしているうちに、
 
-tane ios a= poutari ka rupne wa yayramekotpa hike yayramekote.
+tane ios a=poutari ka rupne wa yayramekotpa hike yayramekote.
 今や、後から生まれた子供たちも大きくなって、結婚するものは結婚するようになった。
 
-menoko utar ka matkaci utar ka ki pa siri a= nukar kor,
+menoko utar ka matkaci utar ka ki pa siri a=nukar kor,
 女たちも、女の子たちも大きくなってそうするのを見ながら、
 
 sukup hontom neun arka ka somo ki no,
 まだ若くてどこも痛みもしないのに、
 
-sukup hontom *a=ey ... a= eysam siri anakne
+sukup hontom *a=ey ... a=eysam siri anakne
 若いうちに私がこの世を去ることになるのは、
 
-kamuy hoku, a= hokuhu eun arpa =an sinne nankor kusu,
+kamuy hoku, a=hokuhu eun arpa=an sinne nankor kusu,
 夫のところへ行くのだろうから、
 
-a= poutari sinrit or un i= nurappa yakka a= uk ka somo ki p ne kusu,
+a=poutari sinrit or un i=nurappa yakka a=uk ka somo ki p ne kusu,
 子供たちが先祖のところに供物をそなえても、私のところには届かないから、
 
-"nupuri kor kamuy kamuy ekasi a= nomi na."
+"nupuri kor kamuy kamuy ekasi a=nomi na."
 「山のカムイ、カムイのおじいさんをお祀りしますよ」
 
 sekor haweoka kor kamuynomi pa yak easir,
 と言いながらお祈りしてくれたならば、
 
-a= kor son utar kar pe a= e p ne kusu,
+a=kor son utar kar pe a=e p ne kusu,
 子供たちの作ったものを食べることが出来るので、
 
 iteki sinnurappa anak a kamuy ... aynu *mosi ... aynu sinrit or un somo ki no,
@@ -499,12 +499,12 @@ iteki sinnurappa anak a kamuy ... aynu *mosi ... aynu sinrit or un somo ki no,
 sucihi nurappa pa yak pirka.*7
 おばあさんは供養していいのだけれど、
 
-asinuma anak iteki sinrit or un i= nurappa pa yak pirka.
+asinuma anak iteki sinrit or un i=nurappa pa yak pirka.
 私は先祖のところに供養はしないでおくれ。
 
-sekor hawean =an kor onne,
+sekor hawean=an kor onne,
 と言いながらこの世を去った。
 
-onne =an kaspa ka somo ki no ray katkemat a= ne kusu a= eysoytak sekor.
+onne=an kaspa ka somo ki no ray katkemat a=ne kusu a=eysoytak sekor.
 まだ年でもないのに私はこの世を去っていくので、物語るのだ、と。
 

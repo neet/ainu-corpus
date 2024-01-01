@@ -1,7 +1,7 @@
 V:nooaauu
 サケヘ：ノーオオーアアーウウー
 
-p a= ante hoku
+p a=ante hoku
 私のかしづく夫
 
 V turano kayki
@@ -16,13 +16,13 @@ V u kunne hene
 V tokap hene
 昼も
 
-V a= ki pa ki na
+V a=ki pa ki na
 送ってきました。
 
-V a= ante hoku
+V a=ante hoku
 私の夫
 
-V a= sokar hoku
+V a=sokar hoku
 大事な夫は
 
 no ... (やっぱりひとりの人のほうはいろいろきけるもんな。大勢来たらやっぱし。)
@@ -70,19 +70,19 @@ V u tokap hene
 V kemeyki patek
 針仕事ばかり
 
-V a= ki pa ki na
+V a=ki pa ki na
 していました。
 
 V kemeyki patek
 針仕事ばかり
 
-V a= ki p a= ne kusu
+V a=ki p a=ne kusu
 しているものですから
 
-V a= kemruoka
+V a=kemruoka
 私の針の縫う後
 
-V a= kemruetok
+V a=kemruetok
 私の針の縫う前を
 
 V tu imerukur
@@ -103,7 +103,7 @@ V ne wa ne yakka
 V pon ... p anramasu
 ほれぼれと
 
-V a= ki pa ki na
+V a=ki pa ki na
 していました。
 
 V hemtomaniwano
@@ -115,7 +115,7 @@ V kakkok kasuno
 V poro kakkok
 大きなカッコウが
 
-V a= un cisehe
+V a=un cisehe
 私たちの家の
 
 V kasi ta rew wa
@@ -127,7 +127,7 @@ V haw ... hawkokari
 V enune ki kor
 そうして
 
-V okay =an ki na
+V okay=an ki na
 いて
 
 V tane anakne
@@ -136,22 +136,22 @@ V tane anakne
 V ohor pe ne kor
 だいぶたったが
 
-V a= hekote kamuy
+V a=hekote kamuy
 私の夫は
 
-V a= kopunpa p
+V a=kopunpa p
 よそった御飯を
 
 V e ka somo ki
 食べもしない。
 
-V husko a= kopunpa p
+V husko a=kopunpa p
 先によそったものには
 
 V kunne kumi us
 黒いかびが生え
 
-V asir a= kopunpa p
+V asir a=kopunpa p
 新しくよそったものには
 
 V retar kumi us
@@ -190,7 +190,7 @@ V ene easir
 V u kakkok kamuy
 カッコウの神が
 
-V a= un cisehe
+V a=un cisehe
 私たちの家の
 
 V kasi ta rew wa
@@ -202,16 +202,16 @@ V u hawkor a h_i
 V  sir ... sekor kane
 のかと
 
-V u yaynu =an na
+V u yaynu=an na
 私は思っていた。
 
 V sineanto
 ある日のこと
 
-V pan a= kor yupi
+V pan a=kor yupi
 私の夫
 
-V p a= ante hoku
+V p a=ante hoku
 かしずく夫は
 
 V tan huskotoywa
@@ -244,7 +244,7 @@ V u turse noyne
 V iki p ne kusu
 なるので
 
-V a= epunpa na
+V a=epunpa na
 私が支えて
 
 V enune ki wa
@@ -292,16 +292,16 @@ V u naypa kane
 V ene itak h_i
 こう言った。
 
-V "a= ante maci
+V "a=ante maci
 「わが妻よ
 
-V a= sokar maci
+V a=sokar maci
 大事な妻よ
 
-V itak =an ciki
+V itak=an ciki
 私が言うことを
 
-V pirka e= nu na
+V pirka e=nu na
 よく聞きなさい。
 
 V asinuma  anak
@@ -310,7 +310,7 @@ V asinuma  anak
 V u nep aynuhu
 人間などで
 
-V a= ne ruwe ka
+V a=ne ruwe ka
 ありは
 
 V somo ki ruwe
@@ -319,13 +319,13 @@ V somo ki ruwe
 V rikun kanto ta
 天においては
 
-V tu irwak a= ne wa
+V tu irwak a=ne wa
 ふたりの兄弟がいて、
 
 V u kakkok tono
 カッコウの殿様
 
-V a= ne pa ruwe
+V a=ne pa ruwe
 である
 
 V u ne a korka
@@ -334,7 +334,7 @@ V u ne a korka
 V poniwne kur
 その弟のほうが
 
-V a= ne ruwe ne
+V a=ne ruwe ne
 私なのだ。
 
 V enune ki wa
@@ -343,7 +343,7 @@ V enune ki wa
 V kamuy or_ ta
 カムイのところには
 
-V a= yaykotomka p
+V a=yaykotomka p
 私が気に入った者が
 
 V sinep ka isam
@@ -352,22 +352,22 @@ V sinep ka isam
 V u aynu or un
 人間のところに
 
-u inkar =an kor
+u inkar=an kor
 目をやると
 
 V aynu menoko
 人間の女で
 
-V e= ne yakka
+V e=ne yakka
 お前はあるが
 
-V e= pirka ruwe
+V e=pirka ruwe
 お前の美しいこと。
 
 V u kewtum tura
 心根の良さにも
 
-V a= e= osikkote
+V a=e=osikkote
 私は惚れてしまった。
 
 V enune wa kusu
@@ -379,13 +379,13 @@ V aynu ne yaykar =an
 V p enune hine
 そして
 
-V e= tura an =an
+V e=tura an =an
 お前と一緒に暮らしていた
 
 V enune akus
 すると
 
-V a= wenyupihi
+V a=wenyupihi
 憎い私の兄が
 
 V rikun kanto ta
@@ -424,10 +424,10 @@ V aynu mosir_ ta
 V aynu menoko
 人間の女と
 
-V e= ewtanne wa
+V e=ewtanne wa
 お前は一緒になって
 
-V e= an ruwe an'
+V e=an ruwe an'
 いるのだV』
 
 V sekor hawean kor
@@ -439,10 +439,10 @@ V sak pa iwan pa
 V mata pa iwan pa
 冬の年6年
 
-V i= kocaranke
+V i=kocaranke
 私を責めたてた。
 
-V u neun yayunaske =an yakka
+V u neun yayunaske=an yakka
 どんなに見逃してくれと言っても
 
 V nu hawe ka
@@ -457,13 +457,13 @@ V sak pa iwan pa
 V mata pa iwan pa
 冬の年6年
 
-V i= kocaranke
+V i=kocaranke
 私を責めたてた。
 
 V enune wa tane anakne
 そしてとうとう
 
-V a= i= maketa wa
+V a=i=maketa wa
 私は言い負かされてしまい
 
 V nisatta anak
@@ -508,7 +508,7 @@ V okkayo or_ ta
 V menoko or_ ta
 女でも
 
-V e= posiresikte
+V e=posiresikte
 子供がたくさん生まれる。
 
 V enune yakun
@@ -517,10 +517,10 @@ V enune yakun
 V sukup hontom ta
 まだ年をとる前に
 
-V a= e= tere wa an =an wa
+V a=e=tere wa an=an wa
 私はお前のことを待っていて
 
-V a= e= uk wa ne yak
+V a=e=uk wa ne yak
 お前を迎えに行くから
 
 V kamuy or_ ta
@@ -529,13 +529,13 @@ V kamuy or_ ta
 V sonno ukor
 本当の結婚を
 
-V a= ki pe ne na
+V a=ki pe ne na
 することにしよう。
 
 V enune ki na
 そうなるのだから
 
-V iteki e= cis pe ne na"
+V iteki e=cis pe ne na"
 決して泣くのではないよ」
 
 V sekor itak wa
@@ -547,10 +547,10 @@ V "hokupo!" sekor
 V hawean ki kor
 言いながら
 
-V a= koterke akusu
+V a=koterke akusu
 とびつくと
 
-V i= koyki ki kor
+V i=koyki ki kor
 私をしかりつけ
 
 V "hetak suke yak
@@ -571,7 +571,7 @@ V sekor itak pe
 V u ne p ne kusu
 そこで
 
-V suke =an h_ine
+V suke=an h_ine
 私は料理を作り
 
 V ukasuy ipe =an
@@ -583,22 +583,22 @@ V u cis turano
 V ne wa ne korka
 ではあるが
 
-V ipe =an ki wa
+V ipe=an ki wa
 私は食事した。
 
 V kuneywa an wa
 朝になると
 
-V suke =an wa
+V suke=an wa
 朝御飯を作って
 
-V ipe =an akus_
+V ipe=an akus_
 食事をした。すると
 
 V
 --
 
-a= ehotkey erupsike ta
+a=ehotkey erupsike ta
 私たちの寝床の上手に
 
 V suwop an ayke
@@ -649,13 +649,13 @@ V u sapte h_ine
 V us ruwe ne
 履いた。
 
-V "a= sokar maci
+V "a=sokar maci
 「わが妻よ。
 
-V arpa =an siri poka
+V arpa=an siri poka
 私が出立する姿だけでも
 
-V e= nukar pe ne na"
+V e=nukar pe ne na"
 見ておくれ」
 
 V sekor hawean kor
@@ -703,16 +703,16 @@ V hopuni noyne
 V iki pa h_i ta
 したときに
 
-V "a= sokar hoku
+V "a=sokar hoku
 「あなた！
 
-V a= ante hoku"
+V a=ante hoku"
 私の夫よ！」
 
-V sekor itak =an kor
+V sekor itak=an kor
 と言いながら
 
-V a= ukoraypa
+V a=ukoraypa
 私は抱きついた。
 
 V u tu suy re suy
@@ -727,7 +727,7 @@ V hopunpa ki wa
 V u ramno kane
 低く
 
-V a= enkasike
+V a=enkasike
 私の上を
 
 V u kari ki kor
@@ -739,7 +739,7 @@ V cikap ne korka
 V u cis nupehe
 いた涙が
 
-V i= kurkasike
+V i=kurkasike
 の体を
 
 V u teyne kane
@@ -751,13 +751,13 @@ V u nusa or_ ta
 u yaykarkarsere
 私は転げまわって
 
-V a= ki ayne
+V a=ki ayne
 いたが、そのうちに
 
 V "hnta ye a wa?"
 夫は何と言っていたかV」
 
-sekor yaynu =an kusu, ahun =an hine, cise or_ ta ahun =an.
+sekor yaynu=an kusu, ahun=an hine, cise or_ ta ahun =an.
 と、思ったので、家の中に入った。
 
 V enune h_ine
@@ -766,7 +766,7 @@ V enune h_ine
 V u cis turano
 泣きながら、
 
-V u an =an akusu
+V u an=an akusu
 暮らしていると
 
 V u tutko rerko
@@ -805,28 +805,28 @@ V kamuy ne ciki
 V eawnerura
 捕ってきて
 
-V oka =an akusu
+V oka=an akusu
 暮らしていた。
 
-V u an =an ayne
+V u an=an ayne
 そのうちに
 
-V honkor =an akusu
+V honkor=an akusu
 私は妊娠し
 
-V nuwap =an akus
+V nuwap=an akus
 出産すると
 
 V okkayo tennep
 男の子が
 
-V a= yaykosanke
+V a=yaykosanke
 生まれた。
 
-V a= ukoomap kor
+V a=ukoomap kor
 ふたりでかわいがって
 
-V oka =an ayne
+V oka=an ayne
 暮らしているうちに
 
 V menoko or_ ta
@@ -835,7 +835,7 @@ V menoko or_ ta
 V okkayo
 男の子も（テープ終了）
 
-V a= yaykoomap
+V a=yaykoomap
 かわいがって（V）
 
 V enune ayne
@@ -844,10 +844,10 @@ V enune ayne
 V tane anakne
 今は
 
-V a= poutari
+V a=poutari
 息子たち
 
-V a= matnepoutari
+V a=matnepoutari
 娘たちも
 
 V rupne pa wa
@@ -859,40 +859,40 @@ V utomta terke
 V
 --
 
-siri a= nukar kor
+siri a=nukar kor
 その様子をみながら
 
-tane onnekaspa =an ka somo ki no
+tane onnekaspa=an ka somo ki no
 まだそんなに年をとってもいないのに
 
-tutko rerko yaynu =an wa ray =an yakun
+tutko rerko yaynu=an wa ray=an yakun
 二三日具合が悪くなって、もう死ぬということは
 
 kanna ... rikun kanto kakkok kamuy
 天にいるカッコウの神様のもとに、
 
-kamuy ekasi eun arpa =an kusu
+kamuy ekasi eun arpa=an kusu
 カムイの祖先のもとに行くことになるのだから
 
-a= poutari, sinrit or un i= nurappa yakka
+a=poutari, sinrit or un i=nurappa yakka
 子供たちよ。先祖のところに供養してくれても
 
-a= uk ka somo ki kusu
+a=uk ka somo ki kusu
 私は受け取ることができないから
 
-"kakkok tono kamuy ekasi a= nomi na"
+"kakkok tono kamuy ekasi a=nomi na"
 「カッコウの殿様、カムイのご先祖様をお祀りしますよ」
 
 sekor hawoka kor kamuynomi pa
 と言いながら、お祈りをしてくれたら
 
-yak easir a= uk kusu
+yak easir a=uk kusu
 それで私は受け取ることができるから
 
-neno iki pa wa i= kore.
+neno iki pa wa i=kore.
 そのようにしておくれ。
 
-orano a= sokar hoku a= ante hoku anakne
+orano a=sokar hoku a=ante hoku anakne
 その後は、私の（人間の）夫は
 
 sorekusu na pewre kusu
@@ -904,7 +904,7 @@ yayeasirkar yakka pirka.
 somo yakun somo yakka pirka kusu
 しないのであればそれでもよいので
 
-iteki i= oskur pa yak pirka.
+iteki i=oskur pa yak pirka.
 私のことを嘆かないでほしい。
 
 sekor sino katkemat hawean kor_ ray.

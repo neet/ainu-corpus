@@ -1,25 +1,25 @@
-Ikuresuye nispa a= ne hine an =an.
+Ikuresuye nispa a=ne hine an =an.
 私はイクレスイェという長者である。
 
-pakno nispa isam nispa a= ne.
+pakno nispa isam nispa a=ne.
 並ぶ者のなき長者である。
 
-sine to mosir okari apkas nispa a= ne hine an =an akusu,
+sine to mosir okari apkas nispa a=ne hine an=an akusu,
 私は一日で国中を歩くことができる長者であったが
 
-a= kotanu ta sake an h_ine,
+a=kotanu ta sake an h_ine,
 （ある時）私の村で酒宴があって
 
-a= macihi turano i= aske a= uk h_ine,
+a=macihi turano i=aske a=uk h_ine,
 妻と一緒に招待を受けて
 
 iku usi ta paye =an.
 酒宴の席に行った。
 
-sakeiyus =an pe ne kus_ a= maci a= ikure SITARI ki a p,
+sakeiyus=an pe ne kus_ a=maci a=ikure SITARI ki a p,
 私は主賓を務めていたものだから、妻に酒を飲ませたりしていたが
 
-soyne ya ka a= eramiskari hine,
+soyne ya ka a=eramiskari hine,
 妻が出て行ったのにも気がつかず
 
 sakeiyus =an.
@@ -28,31 +28,31 @@ sakeiyus =an.
 iku oka an, horippa =an, sinot =an.
 酒宴が終わって、踊ったり遊んだりしていた
 
-na neun neun ki p ne kusu sinot =an SITARI ki a,
+na neun neun ki p ne kusu sinot=an SITARI ki a,
 いろいろなことをしていたので、遊んだりして
 
 ora *inka ...
 そして、見（ると）
 
-a= maci isam wa kusu,
+a=maci isam wa kusu,
 妻がいないので
 
-ora soyne =an h_ine ek =an akusu,
+ora soyne=an h_ine ek=an akusu,
 外へ出て（自分の家まで）来ると
 
-a= uni un ape nipek maknatara hine siran h_ine,
+a=uni un ape nipek maknatara hine siran h_ine,
 私の家のほうに、明かりが煌々としている様子であり
 
-ek =an h_ine ahun =an akus_,
+ek=an h_ine ahun=an akus_,
 来て家の中に入ってみると
 
-a= macihi cis kor an h_i kusu,
+a=macihi cis kor an h_i kusu,
 妻が泣いているので
 
 "hinta kusu ene cis kor an siri ene an h_i an."
 「なんでそんなふうにないているのだ？」
 
-sekor hawean =an akusu,
+sekor hawean=an akusu,
 と言うと
 
 "sorekusu tamasay rekut *eoko ... eokte.
@@ -64,22 +64,22 @@ sitoki ne ya ki pa,
 katkemat utar ki ora ene an nispa macihi,
 奥さんたちがそうやっていて、『あれほどの長者の奥さんが
 
-ene tamasay ka sak ruwe an h_i an.' sekor i= osmake un hawas hawe a= nu wa,
+ene tamasay ka sak ruwe an h_i an.' sekor i=osmake un hawas hawe a=nu wa,
 あのように頸飾りも持っていないのね』と、私の後ろで言っている声を聞いて
 
-a= eyaysitoma wa kusu,
+a=eyaysitoma wa kusu,
 恥ずかしくなったので
 
-tunasno ek =an wa cis =an kor an =an sinne."
+tunasno ek=an wa cis=an kor an=an sinne."
 先に帰ってきて泣いているのです」
 
-sekor a= macihi hawean.
+sekor a=macihi hawean.
 と、妻が言う。
 
 earkinne "ohayne kane,
 非常に（驚いて）「なるほど
 
-hemanta kusu ene a= maci a= ekoramputuye
+hemanta kusu ene a=maci a=ekoramputuye
 なんでまた、このように妻を気遣ってやらなかったものが
 
 macikor_ ne hine,
@@ -88,13 +88,13 @@ macikor_ ne hine,
 ora ene ne hi an."
 こんなことになった」
 
-sekor yaynu =an kor
+sekor yaynu=an kor
 と思い
 
-orano ene a= ye h_i ka isam pe ne kusu,
+orano ene a=ye h_i ka isam pe ne kusu,
 返す言葉がなかったので
 
-mosmano an =an hine ora,
+mosmano an=an hine ora,
 黙っていた。
 
 Hoynasir_ ta amkir_ nispa utar okay pe ne hi kusu,
@@ -103,13 +103,13 @@ Hoynasir_ ta amkir_ nispa utar okay pe ne hi kusu,
 eun arpa =an.
 そこへ行った。
 
-sineweearpa =an hine arpa =an h_ine,
+sineweearpa=an hine arpa=an h_ine,
 遊びに行って
 
-tomari or_ ta cip a= yanke hine,
+tomari or_ ta cip a=yanke hine,
 船着き場に船を上げて
 
-kotan or_ ta arpa =an akusu,
+kotan or_ ta arpa=an akusu,
 村に行くと
 
 kotan noski kiyanne kur kotan kor kur_ ne,
@@ -127,10 +127,10 @@ ora kotan epitta oha sinne.
 ora nep pone ne ruwe ne ya,
 そして、何の骨であるのか
 
-sorekusu mintar kurka a= ecarikar h_ine siran.
+sorekusu mintar kurka a=ecarikar h_ine siran.
 それこそ広場中に散らばっている様子である。
 
-a= oyamokte kor kotanopes =an h_ine,
+a=oyamokte kor kotanopes=an h_ine,
 不審に思いながら村を下手に向かい
 
 kotan noski eun *ata ...
@@ -139,10 +139,10 @@ kotan noski eun *ata ...
 simusiska =an,
 咳払いをした。
 
-arpa =an ranke p ne korka,
+arpa=an ranke p ne korka,
 何度も行ったことのある家だったが
 
-arpa =an uturu tuyma h_i kusu simusiska =an akusu,
+arpa=an uturu tuyma h_i kusu simusiska=an akusu,
 しばらく行っていなかったので、咳払いをすると
 
 kotan kor nispa macihi nep ka esirkirap a ruwe ne noyne an h_ine,
@@ -151,7 +151,7 @@ kotan kor nispa macihi nep ka esirkirap a ruwe ne noyne an h_ine,
 soyne.
 外に出てきた。
 
-i= nukar hine ora,
+i=nukar hine ora,
 私を見ると（中へ入っていって）
 
 "Yupet putu kor kotan,
@@ -163,34 +163,34 @@ Ikuresuye nispa ek."
 sekor hawean haw as akusu,
 と言う声がする。すると
 
-"ahun rusuy kusu a= kor_ nispa ek hawe ne p,
+"ahun rusuy kusu a=kor_ nispa ek hawe ne p,
 「家に入りたいから、わが長者殿が来てくれたということだが
 
-pirka hi ne a= kor_ nispa ek hawe ne h_ike,
+pirka hi ne a=kor_ nispa ek hawe ne h_ike,
 いい時にわが長者殿が来てくれたことだ。
 
-a= ahunke hike mak?"
+a=ahunke hike mak?"
 入れてさしあげたらどうだ」
 
 sekor hawean h_ine, hawas h_ine
 と言う声がして、
 
-i= ahunte kusu ye.
+i=ahunte kusu ye.
 私に上がるように言った。
 
-sinu kane reye kane ahun =an ruwe ne akusu,
+sinu kane reye kane ahun=an ruwe ne akusu,
 這うようにして家の中に入ると
 
 nea nispa ka nep ka ruska a ruwe ne noyne an h_ine a =an.
 その長者も何か不機嫌な様子で、私が座ると
 
-i= erankarap.
+i=erankarap.
 私に挨拶をした。
 
-ramno kane i= erankarap,
+ramno kane i=erankarap,
 丁寧に挨拶をした。
 
-"a= kor_ nispa ohonno a= nukar ka eramiskari a p,
+"a=kor_ nispa ohonno a=nukar ka eramiskari a p,
 「わが長者殿よ、長いことお目にかかりませんでしたが
 
 pirka hi ne ek siri ene an."
@@ -202,40 +202,40 @@ sekor hawean.
 "makanak ne hine ne hawean?"
 「どうしてそんなことを言うのだろう？」
 
-sekor yaynu =an ruwe ne akus_,
+sekor yaynu=an ruwe ne akus_,
 と思っていると
 
-"ne kusu nep ka a= erampewtek no,
+"ne kusu nep ka a=erampewtek no,
 「どういうわけだかわからないのですが
 
-a= akihi a= utari utar ukoykire wa,
+a=akihi a=utari utar ukoykire wa,
 私の弟が村人たちをお互いに戦わせて
 
 sorekusu ki ayne,
 そうし続けたあげく
 
-a= utari utar opitta hekattar_ ne ya ray wa isam pa ruwe ne hine ora,
+a=utari utar opitta hekattar_ ne ya ray wa isam pa ruwe ne hine ora,
 村人たちはみんな、子供たちまで死んでしまって
 
 nisatta an h_ine,
 明日になったら
 
-a= akihi tura ukoyki =an wa uekot =an oasi wa oka =an.
+a=akihi tura ukoyki=an wa uekot=an oasi wa oka =an.
 私は弟と闘って、ともに死ぬことになっているのです。
 
-sorekusu a= aki i= ye p ne kusu,
+sorekusu a=aki i=ye p ne kusu,
 それこそ弟がそう言うので
 
-tasa... a= tasa ka eaykap wa uekot =an oasi oka =an a p,
+tasa... a=tasa ka eaykap wa uekot=an oasi oka=an a p,
 返す言葉もなくて、お互いに死ぬことになっていたところ
 
-pirka (na?) hi ne a= kor_ nispa ene ek siri ene an kusu,
+pirka (na?) hi ne a=kor_ nispa ene ek siri ene an kusu,
 いい時に、わが長者殿がこのように来てくださったので
 
-a= eoripak yakka,
+a=eoripak yakka,
 恐縮ですが
 
-a= macihi a= kor_ nispa nisatta an ciki tura wa arpa wa,
+a=macihi a=kor_ nispa nisatta an ciki tura wa arpa wa,
 長者殿よ、 明日になったらわが妻を連れて行って
 
 nen ka kore hene,
@@ -244,55 +244,55 @@ nen ka kore hene,
 yaykata hene ponmat ne hene kor wa,
 御自分で小妻にでもして
 
-pokor yakne po ka a= santeke ne situri kusu ne kus_,
+pokor yakne po ka a=santeke ne situri kusu ne kus_,
 子供が生まれれば、その子が私の系統として続くだろうから
 
-a= kor_ nispa neno iki wa i= kore ruwe an?
+a=kor_ nispa neno iki wa i=kore ruwe an?
 長者殿よ、そのようにしてくれませんか？
 
-a= kor_ nispa a= ekanunara kor an =an a p."
+a=kor_ nispa a=ekanunara kor an=an a p."
 長者殿の来るのを待ちわびていたのです」
 
 sekor.
 と（言う）。
 
-earkinne a= kemnu,
+earkinne a=kemnu,
 私はたいそう気の毒になり
 
 "makanak ne hine ene hi an?"
 「どうしてそんなことになったのだろう？」
 
-sekor yaynu =an kor,
+sekor yaynu=an kor,
 と思いながら
 
-ora konto a= sikehe a= sanke hine,
+ora konto a=sikehe a=sanke hine,
 自分の荷物を出して
 
 nea katkemat suke hine ipe =an.
 奥さんがそれを料理して食事をした。
 
-orano nen nen nea nispa i= koysoytak,
+orano nen nen nea nispa i=koysoytak,
 それからその長者が私にいろいろ話をし
 
-uenewsar =an ayne,
+uenewsar=an ayne,
 四方山話をして
 
-ora hotke =an korka,
+ora hotke=an korka,
 寝たのだが
 
 kuneywa tunasno nea katkemat hopuni hine suke h_i kusu,
 朝早く、奥さんが起きて料理を作ったので
 
-ipe =an hine,
+ipe=an hine,
 食事をして
 
-ora konto kotan pa un kur oro ta sorekusu a= tasiro a= etamtarara horipi =an kor,
+ora konto kotan pa un kur oro ta sorekusu a=tasiro a=etamtarara horipi=an kor,
 それから村の上手の者（弟）のところに、太刀を振りかざして踏舞行進をしながら
 
 "mak ne kusu ne haw ne yakka,
 「どういうわけがあろうと
 
-somo an kuni p ne kus_ a= kor nispa yaytomoytak wa i= kore yak pirka.
+somo an kuni p ne kus_ a=kor nispa yaytomoytak wa i=kore yak pirka.
 あってはならないことなので、長者殿、気を静めてくれ。
 
 hemanta ne kusu ene utari ukoykire haw ne yakka,
@@ -301,13 +301,13 @@ hemanta ne kusu ene utari ukoykire haw ne yakka,
 nep ka moto an wa ne hawe ne nankor kusu ki."
 何か原因があってしたことであろう」
 
-sekor hawean =an akus ene h_awean h_i.
+sekor hawean=an akus ene h_awean h_i.
 と、私が言うと、こう言った。
 
 iaknekur ene hawean h_i,
 その弟はこう言った。
 
-"ekimne =an akusu iwor or_ ta sorekusu suwop,
+"ekimne=an akusu iwor or_ ta sorekusu suwop,
 「私が山に行くと、猟場に箱が
 
 toy koraci an suwop oro,
@@ -319,19 +319,19 @@ sorekusu manayta oma,
 op oma,
 槍が入っており
 
-sorekusu imanit oma hine an suwop a= pa wa,
+sorekusu imanit oma hine an suwop a=pa wa,
 焼き串が入っている箱を見つけました。
 
-sorekusu kamuykocikasnukar h_umi ne kunak a= ramu kor,
+sorekusu kamuykocikasnukar h_umi ne kunak a=ramu kor,
 それこそカムイが授けてくれたのだと思って
 
-kor wa *eapa ... iwak =an h_ine,
+kor wa *eapa ... iwak=an h_ine,
 持って、家に帰って
 
-a= kosinninu wa an =an a p,
+a=kosinninu wa an=an a p,
 お守りとしてしまっておいたのですが
 
-oyaciki tumuncikamuy i= ekasnukar,
+oyaciki tumuncikamuy i=ekasnukar,
 おそらくトゥムンチカムイが私に授けた
 
 tumuncikamuy ehayokpeki hine an wa,
@@ -343,49 +343,49 @@ sorekus_ aynu sake,
 aynu kem e rusuy ku rusuy pe ne p ne kus,
 人間の血を食べたい、飲みたいものだから
 
-ene i= yaynure hine,
+ene i=yaynure hine,
 私にそのように思わせて
 
-ene a= utari a= ukoykire wa,
+ene a=utari a=ukoykire wa,
 あのように村人たちを戦わせて
 
 sorekus_ oar isam.
 誰もいなくなってしまった。
 
-ora a= utari utar ki ruwe ne wa,
+ora a=utari utar ki ruwe ne wa,
 村人たちが全滅してしまったので
 
-oraun sinen a= ne a wa, a= yupi tura siknu =an ka eyaykatuwen wa,
+oraun sinen a=ne a wa, a=yupi tura siknu=an ka eyaykatuwen wa,
 私一人が、兄さんと一緒に生きのびることも申し訳なくて
 
-neun ne yakka a= yupi turano ukoyki =an oasi ruwe ne kusu
+neun ne yakka a=yupi turano ukoyki=an oasi ruwe ne kusu
 どうあっても、兄と闘わねばならないのだから
 
-a= kor_ nispa neun e= hawean yakka,
+a=kor_ nispa neun e=hawean yakka,
 長者殿がどうおっしゃっても
 
-siknu =an ka somo ki p ne ruwe ne kus,
+siknu=an ka somo ki p ne ruwe ne kus,
 生きのびることはないのだから
 
-a= maci e= tura wa neun poka ne wa,
+a=maci e=tura wa neun poka ne wa,
 私の妻を連れて行って、なんとかして
 
-ney ta nen ka e= kore wa,
+ney ta nen ka e=kore wa,
 どこかの誰かにやって
 
 aynu ewtanne wa ne yakne,
 夫婦になってもらえば
 
-pokor yakne a= santekehe situri kus ne.
+pokor yakne a=santekehe situri kus ne.
 子供ができたら、私の子孫が続くように
 
-sekor e= hawan kor ki yakne,
+sekor e=hawan kor ki yakne,
 と、あなたが言ってくれたなら
 
-po ka a= santeke ne an.
+po ka a=santeke ne an.
 その子供が私の子孫ということになります。
 
-oraun a= kor wa okay pe,
+oraun a=kor wa okay pe,
 そうしたら、私の持っている財産
 
 nep ka oripak pe ne kusu ... ne ka somo ki ruwe ne kusu,
@@ -394,55 +394,55 @@ nep ka oripak pe ne kusu ... ne ka somo ki ruwe ne kusu,
 tan pa somo ne yakka,
 今年とは言いませんから
 
-oya pa e= aynutura wa ek wa,
+oya pa e=aynutura wa ek wa,
 来年人を連れてきて
 
 sorekusu nispa an usi ne kusu,
 それこそ（このホイナシリは）長者の多いところですから
 
-a= kor wa okay pe opitta a= kotanu o p opitta,
+a=kor wa okay pe opitta a=kotanu o p opitta,
 私の持ち物すべて、村にあるものすべて
 
-soy eci= o *soho ...,
+soy eci=o *soho ...,
 外へ出して
 
-ora eci= icarpa kotan epitta ki wa ne yakne,
+ora eci=icarpa kotan epitta ki wa ne yakne,
 それから村全体に供養をしてくださったら
 
-a= utariutar ka haru ka sak no,
+a=utariutar ka haru ka sak no,
 村人たちも食料がなくて
 
 sinrit mintar opaye somo ki no oka ruwe ne kusu,
 先祖の住む地へ行くこともせずにおりますので
 
-neno eci= iki wa eci= i= kore.
+neno eci=iki wa eci=i=kore.
 そのようにしてやってください。
 
-oraun a= uni o p anak nen ka a= maci nen ka ewtanne ciki,
+oraun a=uni o p anak nen ka a=maci nen ka ewtanne ciki,
 そして私の家にあるものは、妻が誰かにとついだら
 
-a= macihi e= kore wa,
+a=macihi e=kore wa,
 妻にやって
 
 sorekusu po ka ki yakne,
 子供ができたら
 
-a= macihi nen ka ewtanne kur sorekusu koyayeoripak somo ki no an kus ne kus,
+a=macihi nen ka ewtanne kur sorekusu koyayeoripak somo ki no an kus ne kus,
 妻が誰かとついだ相手に気まずい思いをしないでいられるので
 
-neno e= iki wa i= kore p ne na."
+neno e=iki wa i=kore p ne na."
 そのようにしてやってください」
 
 sekor kane nea kotan pa un kur hawean.
 と、その村の上手の男は言った。
 
-ora ene a= ye hi ka isam pe ne kus_,
+ora ene a=ye hi ka isam pe ne kus_,
 そこで、返す言葉もないので
 
-hosipi =an h_ine,
+hosipi=an h_ine,
 私は戻ってきて
 
-nea kotan noski ta ek =an akusu,
+nea kotan noski ta ek=an akusu,
 先ほどの村の中央にやってくると
 
 nea katkemat cis kor
@@ -454,19 +454,19 @@ poro ketusi tomo tarusi hine ora,
 kotan kor_ nispa ne yakka ene hawean h_i,
 村長もまた、こう言った。
 
-"a= maci anak tan pa somo eci= arki yakka oya pa eci= arki wa,
+"a=maci anak tan pa somo eci=arki yakka oya pa eci=arki wa,
 「わが妻は、あなたがたが今年はこれなくても、来年来て
 
-a= uni o p e= kusa wa e= arpa wa
+a=uni o p e=kusa wa e=arpa wa
 家にあるものを舟で運んで行って
 
-a= macihi e= kore wa sinna oro ta e= anu yak pirka pe ne ruwe ne na.
+a=macihi e=kore wa sinna oro ta e=anu yak pirka pe ne ruwe ne na.
 妻にやって、別のところに住まわせてやってください。
 
-oraun eci= arki ciki aynu poronno e= tura wa e= ek wa,
+oraun eci=arki ciki aynu poronno e=tura wa e=ek wa,
 そしてあなたがたが来る時は、人をたくさん連れてきて
 
-sorekusu eci= icarpa wa,
+sorekusu eci=icarpa wa,
 供養をして
 
 sorekus_ nispa an usi ne p ne kusu,
@@ -475,121 +475,121 @@ sorekus_ nispa an usi ne p ne kusu,
 use utar sorekus ki,
 （長者ではない）並みの人を連れてきて
 
-ora ar_ suy tu suy poka ka sake kor pa ciki eci= i= nurappa kuni e= ye yak pirka na."
+ora ar_ suy tu suy poka ka sake kor pa ciki eci=i=nurappa kuni e=ye yak pirka na."
 一度か二度だけでも、お酒が手に入ったならば、私たちを祭ってやろうといってください。
 
 sekor hawoka.
 と言った。
 
-ora nea katkemat sorekus cis kor a= kor cip or un a= tura.
+ora nea katkemat sorekus cis kor a=kor cip or un a=tura.
 それからあの奥さんが泣いているのを、私の舟に連れて行った。
 
 nea kotan pa un kur ...
 あの村の上手の男の
 
-kor_ nispa macihi ne yakka sorekus_ a= tura *hi ...
+kor_ nispa macihi ne yakka sorekus_ a=tura *hi ...
 長者の奥さんも連れて、
 
-a= kopasrotappa cis pa wa ki kor,
+a=kopasrotappa cis pa wa ki kor,
 泣いているのを叱りつけながら連れてきて
 
-a= kusa hine arki =an.
+a=kusa hine arki =an.
 舟に乗せて川を上った。
 
-hosari =an akusu,
+hosari=an akusu,
 振り返ると
 
-nea nispa utar ukoyki kor oka siri a= nukar.
+nea nispa utar ukoyki kor oka siri a=nukar.
 あの長者たちが闘っているのが見えた。
 
-orano a= kuspa hine arki =an h_ine,
+orano a=kuspa hine arki=an h_ine,
 それからふたりを舟で運んできて
 
-a= uni ta hosipi =an.
+a=uni ta hosipi =an.
 家に戻った。
 
-a= kor petaru or_ ta hosipi =an h_ine
+a=kor petaru or_ ta hosipi=an h_ine
 家の水くみ場のところに戻り
 
-a= tura pa hine cise or_ ta paye =an.
+a=tura pa hine cise or_ ta paye =an.
 二人を連れて家に行って
 
-a= maci eun a= ye.
+a=maci eun a=ye.
 妻に話した。
 
-tapne kane ki ruwe ne yak a= ye akus_,
+tapne kane ki ruwe ne yak a=ye akus_,
 これこれこういうわけだということを話すと
 
-a= macihi soyne,
+a=macihi soyne,
 妻は外に出てきて
 
 orano menoko utar sorekusu soy ta uruyruypa kor_ cis pa ayne,
 それから女たちは外で体をさすりあいながら、泣き続けた。
 
-ahupte hine orano oka =an ruwe ne korka,
+ahupte hine orano oka=an ruwe ne korka,
 （妻が女たちを）家に入れて暮らすようになったのだが
 
 ora use nispa konto okkaypo ne korka,
 それから並みの長者、まだ若者であるが
 
-nea poniwne nispa macihi a= ewtannere hine,
+nea poniwne nispa macihi a=ewtannere hine,
 その弟のほうの妻と夫婦にして、
 
-a= uni sisoke wa uni a= kar hine,
+a=uni sisoke wa uni a=kar hine,
 私の家の右手に家を建ててやり
 
-oro ta a= ari pa hine,
+oro ta a=ari pa hine,
 そこに住まわせて
 
 ora nea kiyanne kur macihi anakne,
 年上の男の方の妻は
 
-a= macihi "earkinne ene po ka a= sak kusu,
+a=macihi "earkinne ene po ka a=sak kusu,
 妻が「本当に、このように私たちには子供がいないので
 
 nea katkemat anakne kiyanne kur macihi anakne
 あの奥さん、年上の人の奥さんは
 
-a= hekote nispa a= eoripak yakka ponmat ne kor yak,
+a=hekote nispa a=eoripak yakka ponmat ne kor yak,
 恐縮ですが、旦那様が小妻としておもらいになれば
 
 ney ka pokor wa iomap po ka an."
 いつか子供ができて、かわいがることができるでしょう」
 
-sekor a= maci hawean kor sihopire somo ki p ne kus ora,
+sekor a=maci hawean kor sihopire somo ki p ne kus ora,
 と、妻が言って、（その女を）離さないので
 
-cise harkiso wa nea kiyanne menoko uni a= kar hine,
+cise harkiso wa nea kiyanne menoko uni a=kar hine,
 家の左手にその年上の女の家を建てて
 
-oro ta a= anu hine a= uni o p oro a= o hine ora,
+oro ta a=anu hine a=uni o p oro a=o hine ora,
 そこに住まわせて、私の家にあるものをそこに入れて
 
 orano oka =an.
 そうして暮らしていた。
 
-orano nea Hoynasir wa a= tura menoko utar kor macikor a= macihi korpare pa SITARI ki.
+orano nea Hoynasir wa a=tura menoko utar kor macikor a=macihi korpare pa SITARI ki.
 そして、そのホイナシリから連れてきた女たちは、自分たちの女の宝物を私の妻にくれたりした。
 
-a= macihi ka macikor kor hine orano oka =an rapok,
+a=macihi ka macikor kor hine orano oka=an rapok,
 妻も女の宝物を手にいれ、暮らしていたが
 
-konto a= macihi ... nea ponmacihi ka honkor_.
+konto a=macihi ... nea ponmacihi ka honkor_.
 その小妻も妊娠し
 
-nea poniwne menoko *a= ewta ...
+nea poniwne menoko *a=ewta ...
 年下の女のほうも
 
 ka honkor_ ruwe ne.
 子供ができた。
 
-rapokke konto iyoyapake konto a= maci a= tura ka eaykap pe ne kus_,
+rapokke konto iyoyapake konto a=maci a=tura ka eaykap pe ne kus_,
 そしてあくる年になって、妻を連れていくこともできないので
 
-a= utari utar a= siren wa Hoynasir_ ta paye =an.
+a=utari utar a=siren wa Hoynasir_ ta paye =an.
 村人たちを連れてホイナシリに行った。
 
-orano icarpa =an rok =an rok,
+orano icarpa=an rok=an rok,
 そして供養の撒きものをして
 
 tori kane ki hine,
@@ -601,7 +601,7 @@ orano konto nea kotan pa un nispa macihi ewtanne kur,
 kotan pa un kur uni o p yayteknata cip or un rura.
 村の上手の男の家にあるものを自分の舟に運んだ。
 
-asinuma kotan kor kur kor wa okay pe cip or a= rura hine orano,
+asinuma kotan kor kur kor wa okay pe cip or a=rura hine orano,
 私は村長の持ち物を舟に運んで
 
 konto use utar anakne konto use nispa utar kor wa okay pa p,
@@ -619,67 +619,67 @@ coypep hoppa pa p anakne suy tak pa kunak ye kor,
 kotan imak ta kor wa paye wa ari pa hine,
 村の裏手に持って行って置いて
 
-ora kotan anak a= nuyeotke hine,
+ora kotan anak a=nuyeotke hine,
 それから村に火をはなって
 
 ruwe ne hine orano hosippa =an.
 そして、家路についた。
 
-orano nea kotan kor_ nispa macihi a= ponmacihi *unio ...
+orano nea kotan kor_ nispa macihi a=ponmacihi *unio ...
 それから、あの村長の妻、私の小妻の
 
-unihi kor wa okay pe opitta a= esikte.
+unihi kor wa okay pe opitta a=esikte.
 家に、（村長の）持っていたものを全部運び入れた。
 
 nea kotan pa un kur pon maci ... maci kor kur anakne,
 あの村の上手の男の妻をめとった男は
 
-nea macihi uni opitta a= orura ruwe ne.
+nea macihi uni opitta a=orura ruwe ne.
 その妻の家に全部運び込んだ。
 
-orano kotan kor utar sorekusu i= koyairayke p.
+orano kotan kor utar sorekusu i=koyairayke p.
 そして、村人たちは私に感謝し
 
-"a= kor_ nispa an kuskeraypo nispa a= ne.
+"a=kor_ nispa an kuskeraypo nispa a=ne.
 「われらの長者殿のおかげで、私たちも裕福になりました。
 
-kamuy kor pe sorekus ne macikor_ ne yakka a= kor."
+kamuy kor pe sorekus ne macikor_ ne yakka a=kor."
 カムイの持ち物を、それこそ女の宝物も手にいれました」
 
 sekor menoko utar_ ne yakka hawoka kor orano,
 と、女たちも言って
 
-orano anakne nen ka a= macihi ye pa ka somo ki.
+orano anakne nen ka a=macihi ye pa ka somo ki.
 それからというものは、妻に何も言わなくなった。
 
-ene a= macihi oramsakka rok pa p ki pa kor orano oka =an.
+ene a=macihi oramsakka rok pa p ki pa kor orano oka =an.
 あのように妻を見下した者たちが、何も言わなくなった。
 
-rapok a= macihi okkayo pokor.
+rapok a=macihi okkayo pokor.
 そのうち、妻に男の子が生まれた。
 
-nea kotan pa un kur macihi ne wa a= kotanu un okkaypo ewtanne okkaypo ka,
+nea kotan pa un kur macihi ne wa a=kotanu un okkaypo ewtanne okkaypo ka,
 あの村の上手の男の妻で、わが村の若者と夫婦になった若者（「女」の言い間違い）も
 
 okkayo po kor.
 男の子を産んだ。
 
-orano oka =an orano,
+orano oka=an orano,
 そうして暮らしていると
 
-nep a= kor_ rusuy nep a= e rusuy somo ki no,
+nep a=kor_ rusuy nep a=e rusuy somo ki no,
 何を欲しいとも、何を食べたいとも思わずにいて
 
-nea a= ponmacihi kor son,
+nea a=ponmacihi kor son,
 あの私の小妻の子供を
 
-a= maci ... a= poromaci anakne tokap an kor orano kay kane ani kane kisma kane,
+a=maci ... a=poromaci anakne tokap an kor orano kay kane ani kane kisma kane,
 私の本妻は、昼の間おぶったり、抱き上げたり、抱き締めたりして
 
 nep kar yakka ki.
 何から何まで世話をして
 
-a= ponmaci anakne tekehe kere siri isam no ki rapokkehe,
+a=ponmaci anakne tekehe kere siri isam no ki rapokkehe,
 小妻は手を触れることもなくいるうち
 
 suy matkaci kor orano,
@@ -688,25 +688,25 @@ suy matkaci kor orano,
 sorekusu ...
 それこそ ...
 
-sorekus_ a= eykoytupa p po ne a korka,
+sorekus_ a=eykoytupa p po ne a korka,
 それこそ私たちが欲しかったのは、子供だったのだが
 
 sorekusu matkaci ne ciki okkayo po ne ciki,
 それこそ女の子も男の子も
 
-sorekus_ a= komonmeci.
+sorekus_ a=komonmeci.
 たくさんできた。
 
 nea mosma an menoko ne yakka sorekusu ki wa,
 あのもうひとりの女も、子供がたくさんできて
 
-hoski a= po anakne Hoynasir un a= kor_ nispa poho ne a= eynonnoytak.
+hoski a=po anakne Hoynasir un a=kor_ nispa poho ne a=eynonnoytak.
 先に生まれた私の息子は、ホイナシリの長者の息子として祈りを捧げ
 
 nea mosma an menoko poho ka
 あのもひとりの女の息子も
 
-nea Hoynasir un iaknekur poho ne a= eynonnoytak kuni a= ye p ne kus ki orano,
+nea Hoynasir un iaknekur poho ne a=eynonnoytak kuni a=ye p ne kus ki orano,
 ホイナシリの弟の息子であるとしてお祈りするように言われていたので、そうして
 
 sake kor pa kor Hoynasir un icarpa pa,
@@ -715,37 +715,37 @@ sake kor pa kor Hoynasir un icarpa pa,
 sinnurappa pa kor oka =an.
 先祖供養をしていた。
 
-sorekus_ nep a= e rusuy nep a= kor_ rusuy somo ki no,
+sorekus_ nep a=e rusuy nep a=kor_ rusuy somo ki no,
 それこそ何を食べたいとも何を欲しいとも思わず
 
-orano anakne eytasa apkas =an ka somo ki no,
+orano anakne eytasa apkas=an ka somo ki no,
 それからというものは、あまり出歩きもしないで
 
-pakno nispa isam nispa a= ne.
+pakno nispa isam nispa a=ne.
 並ぶ者のない長者となり
 
-a= poutari rupne pa wa,
+a=poutari rupne pa wa,
 息子たちも大きくなって
 
 hinaoka h_ike urapokkari siri isam no,
 誰も困った暮らしをするような者もなく
 
-menoko or_ ta okkayo or_ ta iki pa wa nispa or peka a= korar pa.
+menoko or_ ta okkayo or_ ta iki pa wa nispa or peka a=korar pa.
 女も男も大きくなって、長者の家にとつがせたり
 
-nispa or peka kosmat a= kor_ ne ya,
+nispa or peka kosmat a=kor_ ne ya,
 長者のところから嫁をもらったりして
 
 na neun neun ne wa,
 あれやこれやして
 
-sorekusu pak (咳) pakno nispa isam nispa a= ne.
+sorekusu pak (咳) pakno nispa isam nispa a=ne.
 それこそ並ぶ者のない長者になり
 
-nea hoski a= poho anakne a= macihi yaykore p ne wa,
+nea hoski a=poho anakne a=macihi yaykore p ne wa,
 あの先に生まれた息子は妻が自分の子供にして
 
-poho a= macihi ki p ne korka,
+poho a=macihi ki p ne korka,
 妻が息子にしているけれど
 
 sorekusu *oyas ... oya nurappa oya kamuynomi ki korka ...
@@ -757,28 +757,28 @@ ki ruwe ne.
 orano anakne okay pa p anakne,
 それからというもの、（自分の子供として）いる者たちは
 
-menoko ne ciki okkayo ne ciki a= ponmaci oro ta oka ka somo ki no,
+menoko ne ciki okkayo ne ciki a=ponmaci oro ta oka ka somo ki no,
 女も男も小妻のところにはいもしないで
 
-a= poromaci patek erayninne.
+a=poromaci patek erayninne.
 本妻ばかりが守りをして
 
-a= poromaci patek (咳) oro peka iki pa p ne kus,
+a=poromaci patek (咳) oro peka iki pa p ne kus,
 本妻のところにばかり行き来するので
 
-nep a= e rusuy nep a= kor_ rusuy somo ki no ki ayne,
+nep a=e rusuy nep a=kor_ rusuy somo ki no ki ayne,
 何を食べたいとも何を欲しいとも思わずにいるうち
 
-tane onne =an siri ene an h_ine kusu,
+tane onne=an siri ene an h_ine kusu,
 今やこんなに年をとったのだから
 
 tapne kane wa nea Hoynasir un nispa kor wa okay pa p (咳)
 これこれこのようなわけでホイナシリの長者が持っていたものを
 
-a= utari utar Yupet putu un (咳) a= utari utar_ rura pa wa
+a=utari utar Yupet putu un (咳) a=utari utar_ rura pa wa
 わが村人たち、ユペﾂ川の河口の村人たちが運んで
 
-nispa ne pa p ne kus_ a= eysoytak.
+nispa ne pa p ne kus_ a=eysoytak.
 長者になったのであるので、私が語り残しておくのだ
 
 sekor Ikuresuye nispa hawean sekor

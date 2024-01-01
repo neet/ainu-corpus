@@ -1,16 +1,16 @@
-V(：hankirikiri)*1 sine amam num V ci= tokpatokpa, V
+V(：hankirikiri)*1 sine amam num V ci=tokpatokpa, V
 私はひと粒の米をついばみついばみして
 
-sakehe ci= kar V
+sakehe ci=kar V
 酒を作り
 
-kamuy opitta V c*2= etakkar*3 na, V
+kamuy opitta V c*2=etakkar*3 na, V
 神様皆を招いたよ
 
-eyami okkayo ka V c= etakkar na, V
+eyami okkayo ka V c=etakkar na, V
 カケスの若者も招いたよ
 
-paskur okkayo ka V c= etakkar na, V
+paskur okkayo ka V c=etakkar na, V
 カラスの若者も招いたよ
 
 tutko rerko ne wa, V
@@ -19,13 +19,13 @@ tutko rerko ne wa, V
 “sake *p ... ka pirka” sekor hawas wa, V
 「酒も良い頃だ」ということなので
 
-iku =an ki na, V
+iku=an ki na, V
 私たちは酒を飲んだよ
 
 kamuy opitta V eukoyaykopuntek V
 神々は皆喜び合って
 
-iku =an ki na, V
+iku=an ki na, V
 酒を飲んだよ
 
 iku kes an kor, V
@@ -61,7 +61,7 @@ cisoynaraye V
 nani hosipi wa ek na, V
 すぐ戻ってきたよ
 
-inkar =an awa, V
+inkar=an awa, V
 私が見ると
 
 poro si taktak V ekupa kane, V
@@ -73,13 +73,13 @@ poro si taktak V ekupa kane, V
 kamuy opitta V iruska ki wa, V
 神々は皆怒って
 
-paskur okkayo V a= ukokikkik na, V
+paskur okkayo V a=ukokikkik na, V
 カラスの若者はぼこぼこに殴られて
 
-a= rayke wa isam, V
+a=rayke wa isam, V
 殺されてしまった
 
-esoyne a= osura wa an na, V
+esoyne a=osura wa an na, V
 外に投げ捨てられていたよ
 
 kamuy opitta iruska wa, “te wano anak
